@@ -9,13 +9,13 @@ output: html_document
 library(tidyverse)
 library(readr)
 library(dplyr)
-knitr::opts_knit$set(root.dir = "C:/Huy Phan/College/2025 summer scholar")
 ```
 
 
 ```{r}
-primaryEntropy <- read_csv("data/elections_OH2016_forDenis.csv")
+primaryEntropy <- read_csv("elections_OH2016_forDenis.csv")
 ```
+
 ```{r}
 primaryEntropy <- primaryEntropy %>%
   rename("DEM_LA.FUENTE" = "DEM_LA FUENTE")
@@ -78,6 +78,29 @@ legend("topright",
        legend = c("DEM", "REP"),
        fill = c(rgb(0, 0, 1, 0.3), rgb(1, 0, 0, 0.3)),
        border = NA)
+
+```
+```{r fixing OH format}
+# Get column names
+cols <- names(primaryEntropy)
+
+# Create renaming rules
+rename_rules <- c()
+
+for (col in cols) {
+  if (grepl("^general_TRUMP|^general_JOHNSON", col)) {
+    new_name <- sub("general_", "gen_rep_", col)
+    rename_rules <- c(rename_rules, paste0('"', col, '" = "', new_name, '"'))
+  } else if (grepl("^general_CLINTON|^general_STEIN", col)) {
+    new_name <- sub("general_", "gen_dem_", col)
+    rename_rules <- c(rename_rules, paste0('"', col, '" = "', new_name, '"'))
+  }
+}
+
+# Print final rename code
+cat("primaryEntropy <- primaryEntropy %>%\n  rename(\n    ",
+    paste(rename_rules, collapse = ",\n    "),
+    "\n  )\n", sep = "")
 
 ```
 
