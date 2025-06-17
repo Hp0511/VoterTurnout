@@ -1,0 +1,84 @@
+---
+title: "Entropy-Analysis"
+author: "Sara"
+date: "2025-06-17"
+output: html_document
+---
+```{r setup, include=FALSE}
+# Set the working directory so relative paths work
+library(tidyverse)
+library(readr)
+library(dplyr)
+knitr::opts_knit$set(root.dir = "C:/Huy Phan/College/2025 summer scholar")
+```
+
+
+```{r}
+primaryEntropy <- read_csv("data/elections_OH2016_forDenis.csv")
+```
+```{r}
+primaryEntropy <- primaryEntropy %>%
+  rename("DEM_LA.FUENTE" = "DEM_LA FUENTE")
+```
+
+
+```{r}
+# just democrat primary
+entropyDEM = select(primaryEntropy, DEM_CLINTON, DEM_LA.FUENTE  ,DEM_SANDERS,
+                    DEM_primary_total)
+# add entropy to precinct
+entropyDEM <- entropyDEM %>%
+  mutate(entropy = -1 * (
+    ifelse(DEM_CLINTON > 0, (DEM_CLINTON / DEM_primary_total) * log(DEM_CLINTON / DEM_primary_total), 0) +
+      ifelse(DEM_LA.FUENTE > 0, (DEM_LA.FUENTE / DEM_primary_total) * log(DEM_LA.FUENTE / DEM_primary_total), 0) +
+      ifelse(DEM_SANDERS > 0, (DEM_SANDERS / DEM_primary_total) * log(DEM_SANDERS / DEM_primary_total), 0)
+  ))
+
+# just republican primary
+entropyREP = select(primaryEntropy, REP_BUSH, REP_CARSON, REP_CHRISTIE, REP_CRUZ,
+                    REP_FIORINA, REP_HUCKABEE, REP_KASICH, REP_RUBIO,REP_SANTORUM,
+                    REP_TRUMP, REP_primary_total)
+# add entropy to precinct
+entropyREP <- entropyREP %>%
+  mutate(entropy = -1 * (
+    ifelse(REP_BUSH > 0, (REP_BUSH / REP_primary_total) * log(REP_BUSH / REP_primary_total), 0) +
+    ifelse(REP_CARSON > 0, (REP_CARSON / REP_primary_total) * log(REP_CARSON / REP_primary_total), 0) +
+    ifelse(REP_CHRISTIE > 0, (REP_CHRISTIE / REP_primary_total) * log(REP_CHRISTIE / REP_primary_total), 0) +
+    ifelse(REP_CRUZ > 0, (REP_CRUZ / REP_primary_total) * log(REP_CRUZ / REP_primary_total), 0) +
+    ifelse(REP_FIORINA > 0, (REP_FIORINA / REP_primary_total) * log(REP_FIORINA / REP_primary_total), 0) +
+    ifelse(REP_HUCKABEE > 0, (REP_HUCKABEE / REP_primary_total) * log(REP_HUCKABEE / REP_primary_total), 0) +
+    ifelse(REP_KASICH > 0, (REP_KASICH / REP_primary_total) * log(REP_KASICH / REP_primary_total), 0) +
+    ifelse(REP_RUBIO > 0, (REP_RUBIO / REP_primary_total) * log(REP_RUBIO / REP_primary_total), 0) +
+    ifelse(REP_SANTORUM > 0, (REP_SANTORUM / REP_primary_total) * log(REP_SANTORUM / REP_primary_total), 0) +
+    ifelse(REP_TRUMP > 0, (REP_TRUMP / REP_primary_total) * log(REP_TRUMP / REP_primary_total), 0)
+  ))
+
+# Define the vectors
+vec1 <- na.omit(entropyDEM$entropy)
+vec2 <- na.omit(entropyREP$entropy)
+
+# Define common breaks
+breaks <- seq(min(c(vec1, vec2)), max(c(vec1, vec2)), length.out = 50)
+
+hist(vec1,
+     breaks = breaks,
+     col = rgb(0, 0, 1, alpha = 0.3), # Blue with 30% opacity
+     main = "Ohio 2016 primaries",
+     xlab = "Entropy",                # Optional: Add x-axis label
+     xlim = range(breaks)
+)
+hist(vec2,
+     breaks = breaks,
+     col = rgb(1, 0, 0, alpha = 0.3), # Red with 30% opacity
+     add = TRUE
+)
+
+# Add a legend
+legend("topright",
+       legend = c("DEM", "REP"),
+       fill = c(rgb(0, 0, 1, 0.3), rgb(1, 0, 0, 0.3)),
+       border = NA)
+
+```
+
+
