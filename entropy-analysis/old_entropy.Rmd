@@ -81,27 +81,32 @@ legend("topright",
 
 ```
 ```{r fixing OH format}
-# Get column names
-cols <- names(primaryEntropy)
 
-# Create renaming rules
-rename_rules <- c()
+primaryEntropy <- primaryEntropy %>%
+  rename(
+    "gen_rep_TRUMP" = "general_TRUMP",
+    "gen_dem_CLINTON" = "general_CLINTON",
+    "gen_rep_JOHNSON" = "general_JOHNSON",
+    "gen_dem_STEIN" = "general_STEIN",
+    "pri_dem_CLINTON" = "DEM_CLINTON",
+    "pri_dem_LA.FUENTE" = "DEM_LA.FUENTE",
+    "pri_dem_SANDERS" = "DEM_SANDERS",
+    "pri_rep_BUSH" = "REP_BUSH",
+    "pri_rep_CARSON" = "REP_CARSON",
+    "pri_rep_CHRISTIE" = "REP_CHRISTIE",
+    "pri_rep_CRUZ" = "REP_CRUZ",
+    "pri_rep_FIORINA" = "REP_FIORINA",
+    "pri_rep_HUCKABEE" = "REP_HUCKABEE",
+    "pri_rep_KASICH" = "REP_KASICH",
+    "pri_rep_RUBIO" = "REP_RUBIO",
+    "pri_rep_SANTORUM" = "REP_SANTORUM",
+    "pri_rep_TRUMP" = "REP_TRUMP"
+  )
 
-for (col in cols) {
-  if (grepl("^general_TRUMP|^general_JOHNSON", col)) {
-    new_name <- sub("general_", "gen_rep_", col)
-    rename_rules <- c(rename_rules, paste0('"', col, '" = "', new_name, '"'))
-  } else if (grepl("^general_CLINTON|^general_STEIN", col)) {
-    new_name <- sub("general_", "gen_dem_", col)
-    rename_rules <- c(rename_rules, paste0('"', col, '" = "', new_name, '"'))
-  }
-}
-
-# Print final rename code
-cat("primaryEntropy <- primaryEntropy %>%\n  rename(\n    ",
-    paste(rename_rules, collapse = ",\n    "),
-    "\n  )\n", sep = "")
 
 ```
 
+```{r}
+write.csv(primaryEntropy, "OH.csv", row.names = FALSE)
+```
 
