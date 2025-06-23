@@ -1,4 +1,4 @@
-precinct_name,choice_name,party_id,candidate_id,contest_type,contest,contest_order_id,choice_order,contest_name,vote_total,precinct_id,precinct_order,votes_allowed,processed_done,processed_started,contest_total,write_in,undervote,overvote
+precinct_name,candidate,party_id,candidate_id,contest_type,contest,contest_order_id,choice_order,contest_name,vote,precinct_id,precinct_order,votes_allowed,processed_done,processed_started,contest_total,write_in,undervote,overvote
 CON DIST 1,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,72,1,1,0,0,0,514,0,0,0
 CON DIST 1,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,41,1,1,0,0,0,514,0,0,0
 CON DIST 1,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,1,1,0,0,0,514,0,0,0

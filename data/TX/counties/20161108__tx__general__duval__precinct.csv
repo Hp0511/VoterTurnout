@@ -1,0 +1,311 @@
+county,precinct,office,district,candidate,party,early_voting,election_day,votes
+Duval,1,Ballots Cast,,,,,,1132
+Duval,2,Ballots Cast,,,,,,674
+Duval,3,Ballots Cast,,,,,,318
+Duval,4,Ballots Cast,,,,,,132
+Duval,5,Ballots Cast,,,,,,174
+Duval,6,Ballots Cast,,,,,,85
+Duval,7,Ballots Cast,,,,,,79
+Duval,8,Ballots Cast,,,,,,1097
+Duval,9,Ballots Cast,,,,,,586
+Duval,Total,Ballots Cast,,,,,,4277
+Duval,1,Straight Party,,,REP,49,28,77
+Duval,2,Straight Party,,,REP,25,21,46
+Duval,3,Straight Party,,,REP,7,7,14
+Duval,4,Straight Party,,,REP,11,4,15
+Duval,5,Straight Party,,,REP,8,14,22
+Duval,6,Straight Party,,,REP,3,3,6
+Duval,7,Straight Party,,,REP,17,5,22
+Duval,8,Straight Party,,,REP,134,80,214
+Duval,9,Straight Party,,,REP,19,23,42
+Duval,Total,Straight Party,,,REP,273,185,458
+Duval,1,Straight Party,,,DEM,362,179,541
+Duval,2,Straight Party,,,DEM,228,129,357
+Duval,3,Straight Party,,,DEM,107,44,151
+Duval,4,Straight Party,,,DEM,40,8,48
+Duval,5,Straight Party,,,DEM,39,24,63
+Duval,6,Straight Party,,,DEM,34,16,50
+Duval,7,Straight Party,,,DEM,7,4,11
+Duval,8,Straight Party,,,DEM,211,77,288
+Duval,9,Straight Party,,,DEM,172,89,261
+Duval,Total,Straight Party,,,DEM,1200,570,1770
+Duval,1,Straight Party,,,LIB,2,1,3
+Duval,2,Straight Party,,,LIB,4,1,5
+Duval,3,Straight Party,,,LIB,2,1,3
+Duval,4,Straight Party,,,LIB,1,0,1
+Duval,5,Straight Party,,,LIB,0,3,3
+Duval,6,Straight Party,,,LIB,0,0,
+Duval,7,Straight Party,,,LIB,0,0,0
+Duval,8,Straight Party,,,LIB,5,1,6
+Duval,9,Straight Party,,,LIB,0,2,2
+Duval,Total,Straight Party,,,LIB,14,9,23
+Duval,1,Straight Party,,,GRN,1,2,3
+Duval,2,Straight Party,,,GRN,2,0,2
+Duval,3,Straight Party,,,GRN,1,0,1
+Duval,4,Straight Party,,,GRN,0,0,0
+Duval,5,Straight Party,,,GRN,1,1,2
+Duval,6,Straight Party,,,GRN,0,0,0
+Duval,7,Straight Party,,,GRN,0,0,0
+Duval,8,Straight Party,,,GRN,2,0,2
+Duval,9,Straight Party,,,GRN,0,1,1
+Duval,Total,Straight Party,,,GRN,7,4,11
+Duval,1,Straight Party,,Over Votes,,0,3,3
+Duval,2,Straight Party,,Over Votes,,1,0,1
+Duval,3,Straight Party,,Over Votes,,1,0,1
+Duval,4,Straight Party,,Over Votes,,0,0,0
+Duval,5,Straight Party,,Over Votes,,1,0,1
+Duval,6,Straight Party,,Over Votes,,0,0,0
+Duval,7,Straight Party,,Over Votes,,0,0,0
+Duval,8,Straight Party,,Over Votes,,0,0,0
+Duval,9,Straight Party,,Over Votes,,1,0,1
+Duval,Total,Straight Party,,Over Votes,,4,3,7
+Duval,1,Straight Party,,Under Votes,,280,225,505
+Duval,2,Straight Party,,Under Votes,,127,136,263
+Duval,3,Straight Party,,Under Votes,,80,68,148
+Duval,4,Straight Party,,Under Votes,,40,28,68
+Duval,5,Straight Party,,Under Votes,,43,40,83
+Duval,6,Straight Party,,Under Votes,,11,18,29
+Duval,7,Straight Party,,Under Votes,,26,20,46
+Duval,8,Straight Party,,Under Votes,,397,190,587
+Duval,9,Straight Party,,Under Votes,,163,116,279
+Duval,Total,Straight Party,,Under Votes,,1167,841,2008
+Duval,1,President,,Donald Trump,REP,146,117,263
+Duval,2,President,,Donald Trump,REP,69,71,140
+Duval,3,President,,Donald Trump,REP,33,37,70
+Duval,4,President,,Donald Trump,REP,29,17,46
+Duval,5,President,,Donald Trump,REP,16,36,52
+Duval,6,President,,Donald Trump,REP,8,10,18
+Duval,7,President,,Donald Trump,REP,34,19,53
+Duval,8,President,,Donald Trump,REP,337,211,548
+Duval,9,President,,Donald Trump,REP,61,65,126
+Duval,Total,President,,Donald Trump,REP,733,583,1316
+Duval,1,President,,Hillary Clinton,DEM,528,297,825
+Duval,2,President,,Hillary Clinton,DEM,304,204,508
+Duval,3,President,,Hillary Clinton,DEM,157,81,238
+Duval,4,President,,Hillary Clinton,DEM,61,22,83
+Duval,5,President,,Hillary Clinton,DEM,71,41,112
+Duval,6,President,,Hillary Clinton,DEM,38,26,64
+Duval,7,President,,Hillary Clinton,DEM,13,9,22
+Duval,8,President,,Hillary Clinton,DEM,364,128,492
+Duval,9,President,,Hillary Clinton,DEM,281,158,439
+Duval,Total,President,,Hillary Clinton,DEM,1817,966,2783
+Duval,1,President,,Gary Johnson,LIB,6,3,9
+Duval,2,President,,Gary Johnson,LIB,4,5,9
+Duval,3,President,,Gary Johnson,LIB,3,2,5
+Duval,4,President,,Gary Johnson,LIB,2,0,2
+Duval,5,President,,Gary Johnson,LIB,0,0,0
+Duval,6,President,,Gary Johnson,LIB,1,1,2
+Duval,7,President,,Gary Johnson,LIB,1,1,2
+Duval,8,President,,Gary Johnson,LIB,13,2,15
+Duval,9,President,,Gary Johnson,LIB,3,2,5
+Duval,Total,President,,Gary Johnson,LIB,33,16,49
+Duval,1,President,,Jill Stein,GRN,3,5,8
+Duval,2,President,,Jill Stein,GRN,1,3,4
+Duval,3,President,,Jill Stein,GRN,1,0,1
+Duval,4,President,,Jill Stein,GRN,0,0,0
+Duval,5,President,,Jill Stein,GRN,1,0,1
+Duval,6,President,,Jill Stein,GRN,0,0,0
+Duval,7,President,,Jill Stein,GRN,0,0,0
+Duval,8,President,,Jill Stein,GRN,4,0,4
+Duval,9,President,,Jill Stein,GRN,1,0,1
+Duval,Total,President,,Jill Stein,GRN,11,8,19
+Duval,1,President,,Over Votes,,2,4,6
+Duval,2,President,,Over Votes,,0,0,0
+Duval,3,President,,Over Votes,,1,0,1
+Duval,4,President,,Over Votes,,0,0,0
+Duval,5,President,,Over Votes,,0,0,0
+Duval,6,President,,Over Votes,,1,0,1
+Duval,7,President,,Over Votes,,0,0,0
+Duval,8,President,,Over Votes,,0,0,0
+Duval,9,President,,Over Votes,,2,1,3
+Duval,Total,President,,Over Votes,,6,5,11
+Duval,1,President,,Under Votes,,9,12,21
+Duval,2,President,,Under Votes,,7,4,11
+Duval,3,President,,Under Votes,,3,0,3
+Duval,4,President,,Under Votes,,0,1,1
+Duval,5,President,,Under Votes,,4,5,9
+Duval,6,President,,Under Votes,,0,0,0
+Duval,7,President,,Under Votes,,2,0,2
+Duval,8,President,,Under Votes,,31,7,38
+Duval,9,President,,Under Votes,,7,5,12
+Duval,Total,President,,Under Votes,,63,34,97
+Duval,1,U.S. House,15,Tim Westley,REP,75,52,127
+Duval,2,U.S. House,15,Tim Westley,REP,42,28,70
+Duval,3,U.S. House,15,Tim Westley,REP,18,14,32
+Duval,4,U.S. House,15,Tim Westley,REP,16,13,29
+Duval,5,U.S. House,15,Tim Westley,REP,12,20,32
+Duval,6,U.S. House,15,Tim Westley,REP,7,7,14
+Duval,7,U.S. House,15,Tim Westley,REP,27,13,40
+Duval,8,U.S. House,15,Tim Westley,REP,228,139,367
+Duval,9,U.S. House,15,Tim Westley,REP,37,26,63
+Duval,Total,U.S. House,15,Tim Westley,REP,462,312,774
+Duval,1,U.S. House,15,Vicente Gonzalez,DEM,557,313,870
+Duval,2,U.S. House,15,Vicente Gonzalez,DEM,322,224,546
+Duval,3,U.S. House,15,Vicente Gonzalez,DEM,173,91,264
+Duval,4,U.S. House,15,Vicente Gonzalez,DEM,66,23,89
+Duval,5,U.S. House,15,Vicente Gonzalez,DEM,67,52,119
+Duval,6,U.S. House,15,Vicente Gonzalez,DEM,39,24,63
+Duval,7,U.S. House,15,Vicente Gonzalez,DEM,19,13,32
+Duval,8,U.S. House,15,Vicente Gonzalez,DEM,391,161,552
+Duval,9,U.S. House,15,Vicente Gonzalez,DEM,281,169,450
+Duval,Total,U.S. House,15,Vicente Gonzalez,DEM,1915,1070,2985
+Duval,1,U.S. House,15,Ross Lynn Leone,LIB,5,5,10
+Duval,2,U.S. House,15,Ross Lynn Leone,LIB,4,4,8
+Duval,3,U.S. House,15,Ross Lynn Leone,LIB,0,2,2
+Duval,4,U.S. House,15,Ross Lynn Leone,LIB,1,0,1
+Duval,5,U.S. House,15,Ross Lynn Leone,LIB,1,1,2
+Duval,6,U.S. House,15,Ross Lynn Leone,LIB,0,0,0
+Duval,7,U.S. House,15,Ross Lynn Leone,LIB,0,1,1
+Duval,8,U.S. House,15,Ross Lynn Leone,LIB,16,5,21
+Duval,9,U.S. House,15,Ross Lynn Leone,LIB,2,4,6
+Duval,Total,U.S. House,15,Ross Lynn Leone,LIB,29,22,51
+Duval,1,U.S. House,15,Vanessa S. Tijerina,GRN,11,18,29
+Duval,2,U.S. House,15,Vanessa S. Tijerina,GRN,4,6,10
+Duval,3,U.S. House,15,Vanessa S. Tijerina,GRN,3,5,8
+Duval,4,U.S. House,15,Vanessa S. Tijerina,GRN,1,1,2
+Duval,5,U.S. House,15,Vanessa S. Tijerina,GRN,5,3,8
+Duval,6,U.S. House,15,Vanessa S. Tijerina,GRN,0,0,0
+Duval,7,U.S. House,15,Vanessa S. Tijerina,GRN,3,0,3
+Duval,8,U.S. House,15,Vanessa S. Tijerina,GRN,25,6,31
+Duval,9,U.S. House,15,Vanessa S. Tijerina,GRN,6,10,16
+Duval,Total,U.S. House,15,Vanessa S. Tijerina,GRN,58,49,107
+Duval,1,U.S. House,15,Over Votes,,1,0,1
+Duval,2,U.S. House,15,Over Votes,,0,0,0
+Duval,3,U.S. House,15,Over Votes,,0,0,0
+Duval,4,U.S. House,15,Over Votes,,0,0,0
+Duval,5,U.S. House,15,Over Votes,,0,0,0
+Duval,6,U.S. House,15,Over Votes,,0,0,0
+Duval,7,U.S. House,15,Over Votes,,0,0,0
+Duval,8,U.S. House,15,Over Votes,,0,0,0
+Duval,9,U.S. House,15,Over Votes,,2,4,6
+Duval,Total,U.S. House,15,Over Votes,,3,4,7
+Duval,1,U.S. House,15,Under Votes,,45,50,95
+Duval,2,U.S. House,15,Under Votes,,14,25,39
+Duval,3,U.S. House,15,Under Votes,,4,8,12
+Duval,4,U.S. House,15,Under Votes,,8,3,11
+Duval,5,U.S. House,15,Under Votes,,7,6,13
+Duval,6,U.S. House,15,Under Votes,,2,6,8
+Duval,7,U.S. House,15,Under Votes,,1,2,3
+Duval,8,U.S. House,15,Under Votes,,89,37,126
+Duval,9,U.S. House,15,Under Votes,,6,10,16
+Duval,Total,U.S. House,15,Under Votes,,176,147,323
+Duval,1,Railroad Commissioner,,Wayne Christian,REP,90,62,152
+Duval,2,Railroad Commissioner,,Wayne Christian,REP,48,38,86
+Duval,3,Railroad Commissioner,,Wayne Christian,REP,19,18,37
+Duval,4,Railroad Commissioner,,Wayne Christian,REP,22,14,36
+Duval,5,Railroad Commissioner,,Wayne Christian,REP,14,21,35
+Duval,6,Railroad Commissioner,,Wayne Christian,REP,6,5,11
+Duval,7,Railroad Commissioner,,Wayne Christian,REP,27,15,42
+Duval,8,Railroad Commissioner,,Wayne Christian,REP,230,137,367
+Duval,9,Railroad Commissioner,,Wayne Christian,REP,39,27,66
+Duval,Total,Railroad Commissioner,,Wayne Christian,REP,495,337,832
+Duval,1,Railroad Commissioner,,Grady Yarbrough,DEM,496,257,753
+Duval,2,Railroad Commissioner,,Grady Yarbrough,DEM,294,191,485
+Duval,3,Railroad Commissioner,,Grady Yarbrough,DEM,157,72,229
+Duval,4,Railroad Commissioner,,Grady Yarbrough,DEM,56,17,73
+Duval,5,Railroad Commissioner,,Grady Yarbrough,DEM,55,44,99
+Duval,6,Railroad Commissioner,,Grady Yarbrough,DEM,36,23,59
+Duval,7,Railroad Commissioner,,Grady Yarbrough,DEM,16,9,25
+Duval,8,Railroad Commissioner,,Grady Yarbrough,DEM,333,126,459
+Duval,9,Railroad Commissioner,,Grady Yarbrough,DEM,255,136,391
+Duval,Total,Railroad Commissioner,,Grady Yarbrough,DEM,1698,875,2573
+Duval,1,Railroad Commissioner,,Mark Miller,LIB,10,17,27
+Duval,2,Railroad Commissioner,,Mark Miller,LIB,4,5,9
+Duval,3,Railroad Commissioner,,Mark Miller,LIB,1,4,5
+Duval,4,Railroad Commissioner,,Mark Miller,LIB,1,0,1
+Duval,5,Railroad Commissioner,,Mark Miller,LIB,2,0,2
+Duval,6,Railroad Commissioner,,Mark Miller,LIB,0,0,0
+Duval,7,Railroad Commissioner,,Mark Miller,LIB,1,0,1
+Duval,8,Railroad Commissioner,,Mark Miller,LIB,18,17,35
+Duval,9,Railroad Commissioner,,Mark Miller,LIB,2,10,12
+Duval,Total,Railroad Commissioner,,Mark Miller,LIB,39,53,92
+Duval,1,Railroad Commissioner,,Martina Salinas,GRN,46,47,93
+Duval,2,Railroad Commissioner,,Martina Salinas,GRN,13,13,26
+Duval,3,Railroad Commissioner,,Martina Salinas,GRN,14,15,29
+Duval,4,Railroad Commissioner,,Martina Salinas,GRN,3,2,5
+Duval,5,Railroad Commissioner,,Martina Salinas,GRN,10,12,22
+Duval,6,Railroad Commissioner,,Martina Salinas,GRN,3,1,4
+Duval,7,Railroad Commissioner,,Martina Salinas,GRN,3,3,6
+Duval,8,Railroad Commissioner,,Martina Salinas,GRN,55,19,74
+Duval,9,Railroad Commissioner,,Martina Salinas,GRN,22,27,49
+Duval,Total,Railroad Commissioner,,Martina Salinas,GRN,169,139,308
+Duval,1,Railroad Commissioner,,Over Votes,,1,0,1
+Duval,2,Railroad Commissioner,,Over Votes,,0,0,0
+Duval,3,Railroad Commissioner,,Over Votes,,0,0,0
+Duval,4,Railroad Commissioner,,Over Votes,,0,0,0
+Duval,5,Railroad Commissioner,,Over Votes,,0,0,0
+Duval,6,Railroad Commissioner,,Over Votes,,0,0,0
+Duval,7,Railroad Commissioner,,Over Votes,,0,0,0
+Duval,8,Railroad Commissioner,,Over Votes,,0,0,0
+Duval,9,Railroad Commissioner,,Over Votes,,1,0,1
+Duval,Total,Railroad Commissioner,,Over Votes,,2,0,2
+Duval,1,Railroad Commissioner,,Under Votes,,51,55,106
+Duval,2,Railroad Commissioner,,Under Votes,,27,40,67
+Duval,3,Railroad Commissioner,,Under Votes,,7,11,18
+Duval,4,Railroad Commissioner,,Under Votes,,10,7,17
+Duval,5,Railroad Commissioner,,Under Votes,,11,5,18
+Duval,6,Railroad Commissioner,,Under Votes,,3,1,4
+Duval,7,Railroad Commissioner,,Under Votes,,3,2,5
+Duval,8,Railroad Commissioner,,Under Votes,,113,49,162
+Duval,9,Railroad Commissioner,,Under Votes,,36,31,67
+Duval,Total,Railroad Commissioner,,Under Votes,,261,201,464
+Duval,1,State Senate,21,Judith Zaffirini,DEM,550,331,881
+Duval,2,State Senate,21,Judith Zaffirini,DEM,313,217,530
+Duval,3,State Senate,21,Judith Zaffirini,DEM,169,96,265
+Duval,4,State Senate,21,Judith Zaffirini,DEM,68,20,88
+Duval,5,State Senate,21,Judith Zaffirini,DEM,71,57,128
+Duval,6,State Senate,21,Judith Zaffirini,DEM,42,22,64
+Duval,7,State Senate,21,Judith Zaffirini,DEM,31,17,48
+Duval,8,State Senate,21,Judith Zaffirini,DEM,475,213,688
+Duval,9,State Senate,21,Judith Zaffirini,DEM,284,170,454
+Duval,Total,State Senate,21,Judith Zaffirini,DEM,2003,1143,3146
+Duval,1,State Senate,21,Over Votes,,0,0,0
+Duval,2,State Senate,21,Over Votes,,0,0,0
+Duval,3,State Senate,21,Over Votes,,0,0,0
+Duval,4,State Senate,21,Over Votes,,0,0,0
+Duval,5,State Senate,21,Over Votes,,0,0,0
+Duval,6,State Senate,21,Over Votes,,0,0,0
+Duval,7,State Senate,21,Over Votes,,0,0,0
+Duval,8,State Senate,21,Over Votes,,0,0,0
+Duval,9,State Senate,21,Over Votes,,0,0,0
+Duval,Total,State Senate,21,Over Votes,,0,0,0
+Duval,1,State Senate,21,Under Votes,,144,107,251
+Duval,2,State Senate,21,Under Votes,,73,70,143
+Duval,3,State Senate,21,Under Votes,,29,24,53
+Duval,4,State Senate,21,Under Votes,,24,20,44
+Duval,5,State Senate,21,Under Votes,,21,25,46
+Duval,6,State Senate,21,Under Votes,,6,15,21
+Duval,7,State Senate,21,Under Votes,,13,12,25
+Duval,8,State Senate,21,Under Votes,,274,135,409
+Duval,9,State Senate,21,Under Votes,,71,61,132
+Duval,Total,State Senate,21,Under Votes,,655,469,1124
+Duval,1,State Representative,31,Ryan Guillen,DEM,553,332,885
+Duval,2,State Representative,31,Ryan Guillen,DEM,317,220,537
+Duval,3,State Representative,31,Ryan Guillen,DEM,170,98,268
+Duval,4,State Representative,31,Ryan Guillen,DEM,72,21,93
+Duval,5,State Representative,31,Ryan Guillen,DEM,75,56,131
+Duval,6,State Representative,31,Ryan Guillen,DEM,43,23,66
+Duval,7,State Representative,31,Ryan Guillen,DEM,30,18,48
+Duval,8,State Representative,31,Ryan Guillen,DEM,477,214,691
+Duval,9,State Representative,31,Ryan Guillen,DEM,283,173,456
+Duval,Total,State Representative,31,Ryan Guillen,DEM,2020,1155,3175
+Duval,1,State Representative,31,Over Votes,,0,0,0
+Duval,2,State Representative,31,Over Votes,,0,0,0
+Duval,3,State Representative,31,Over Votes,,0,0,0
+Duval,4,State Representative,31,Over Votes,,0,0,0
+Duval,5,State Representative,31,Over Votes,,0,0,0
+Duval,6,State Representative,31,Over Votes,,0,0,0
+Duval,7,State Representative,31,Over Votes,,0,0,0
+Duval,8,State Representative,31,Over Votes,,0,0,0
+Duval,9,State Representative,31,Over Votes,,0,0,0
+Duval,Total,State Representative,31,Over Votes,,0,0,0
+Duval,1,State Representative,31,Under Votes,,141,106,247
+Duval,2,State Representative,31,Under Votes,,69,67,136
+Duval,3,State Representative,31,Under Votes,,28,22,50
+Duval,4,State Representative,31,Under Votes,,20,19,39
+Duval,5,State Representative,31,Under Votes,,17,26,43
+Duval,6,State Representative,31,Under Votes,,5,14,19
+Duval,7,State Representative,31,Under Votes,,20,11,31
+Duval,8,State Representative,31,Under Votes,,272,134,406
+Duval,9,State Representative,31,Under Votes,,42,30,72
+Duval,Total,State Representative,31,Under Votes,,614,429,1043
