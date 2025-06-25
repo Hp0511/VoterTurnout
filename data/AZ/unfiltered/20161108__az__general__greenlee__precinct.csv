@@ -1,0 +1,685 @@
+,Unnamed: 0,county,votes,election_day,early_voting,provisional,party,office,district,candidate,precinct
+0,0,Greenlee,19,0,0,0,,Registered Voters,,REGISTERED VOTERS,EAGLE
+1,1,Greenlee,37,0,0,0,,Registered Voters,,REGISTERED VOTERS,BLUE
+2,2,Greenlee,908,0,0,0,,Registered Voters,,REGISTERED VOTERS,CLIFTON 1
+3,3,Greenlee,570,0,0,0,,Registered Voters,,REGISTERED VOTERS,CLIFTON 2
+4,4,Greenlee,1168,0,0,0,,Registered Voters,,REGISTERED VOTERS,MORENCI
+5,5,Greenlee,368,0,0,0,,Registered Voters,,REGISTERED VOTERS,EAST PLANTSITE
+6,6,Greenlee,699,0,0,0,,Registered Voters,,REGISTERED VOTERS,YORK/SHELDON
+7,7,Greenlee,933,0,0,0,,Registered Voters,,REGISTERED VOTERS,DUNCAN
+8,8,Greenlee,16,1,15,0,,Ballots Cast,,BALLOTS CAST,EAGLE
+9,9,Greenlee,29,12,17,0,,Ballots Cast,,BALLOTS CAST,BLUE
+10,10,Greenlee,626,129,476,21,,Ballots Cast,,BALLOTS CAST,CLIFTON 1
+11,11,Greenlee,427,92,324,11,,Ballots Cast,,BALLOTS CAST,CLIFTON 2
+12,12,Greenlee,783,262,466,55,,Ballots Cast,,BALLOTS CAST,MORENCI
+13,13,Greenlee,236,88,133,15,,Ballots Cast,,BALLOTS CAST,EAST PLANTSITE
+14,14,Greenlee,547,142,387,18,,Ballots Cast,,BALLOTS CAST,YORK/SHELDON
+15,15,Greenlee,712,192,492,28,,Ballots Cast,,BALLOTS CAST,DUNCAN
+16,16,Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,EAGLE
+17,17,Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,BLUE
+18,18,Greenlee,1,0,1,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,CLIFTON 1
+19,19,Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,CLIFTON 2
+20,20,Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,MORENCI
+21,21,Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,EAST PLANTSITE
+22,22,Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,YORK/SHELDON
+23,23,Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,DUNCAN
+24,24,Greenlee,13,0,13,0,REP,President,,"TRUMP, PENCE",EAGLE
+25,25,Greenlee,25,10,15,0,REP,President,,"TRUMP, PENCE",BLUE
+26,26,Greenlee,226,67,150,9,REP,President,,"TRUMP, PENCE",CLIFTON 1
+27,27,Greenlee,204,50,147,7,REP,President,,"TRUMP, PENCE",CLIFTON 2
+28,28,Greenlee,461,161,261,39,REP,President,,"TRUMP, PENCE",MORENCI
+29,29,Greenlee,145,56,80,9,REP,President,,"TRUMP, PENCE",EAST PLANTSITE
+30,30,Greenlee,330,83,233,14,REP,President,,"TRUMP, PENCE",YORK/SHELDON
+31,31,Greenlee,488,138,328,22,REP,President,,"TRUMP, PENCE",DUNCAN
+32,32,Greenlee,2,1,1,0,DEM,President,,"CLINTON, KAINE",EAGLE
+33,33,Greenlee,1,0,1,0,DEM,President,,"CLINTON, KAINE",BLUE
+34,34,Greenlee,326,51,269,6,DEM,President,,"CLINTON, KAINE",CLIFTON 1
+35,35,Greenlee,192,35,155,2,DEM,President,,"CLINTON, KAINE",CLIFTON 2
+36,36,Greenlee,222,67,146,9,DEM,President,,"CLINTON, KAINE",MORENCI
+37,37,Greenlee,62,20,38,4,DEM,President,,"CLINTON, KAINE",EAST PLANTSITE
+38,38,Greenlee,152,36,115,1,DEM,President,,"CLINTON, KAINE",YORK/SHELDON
+39,39,Greenlee,135,24,108,3,DEM,President,,"CLINTON, KAINE",DUNCAN
+40,40,Greenlee,1,0,1,0,LBT,President,,"JOHNSON, WELD",EAGLE
+41,41,Greenlee,1,1,0,0,LBT,President,,"JOHNSON, WELD",BLUE
+42,42,Greenlee,38,7,26,5,LBT,President,,"JOHNSON, WELD",CLIFTON 1
+43,43,Greenlee,13,1,10,2,LBT,President,,"JOHNSON, WELD",CLIFTON 2
+44,44,Greenlee,54,22,30,2,LBT,President,,"JOHNSON, WELD",MORENCI
+45,45,Greenlee,23,9,13,1,LBT,President,,"JOHNSON, WELD",EAST PLANTSITE
+46,46,Greenlee,23,8,14,1,LBT,President,,"JOHNSON, WELD",YORK/SHELDON
+47,47,Greenlee,47,12,33,2,LBT,President,,"JOHNSON, WELD",DUNCAN
+48,48,Greenlee,0,0,0,0,GRN,President,,"STEIN, BARAKA",EAGLE
+49,49,Greenlee,0,0,0,0,GRN,President,,"STEIN, BARAKA",BLUE
+50,50,Greenlee,9,3,5,1,GRN,President,,"STEIN, BARAKA",CLIFTON 1
+51,51,Greenlee,7,2,5,0,GRN,President,,"STEIN, BARAKA",CLIFTON 2
+52,52,Greenlee,18,4,10,4,GRN,President,,"STEIN, BARAKA",MORENCI
+53,53,Greenlee,2,2,0,0,GRN,President,,"STEIN, BARAKA",EAST PLANTSITE
+54,54,Greenlee,12,4,6,2,GRN,President,,"STEIN, BARAKA",YORK/SHELDON
+55,55,Greenlee,11,9,2,0,GRN,President,,"STEIN, BARAKA",DUNCAN
+56,56,Greenlee,0,0,0,0,NON,President,,WRITE-IN,EAGLE
+57,57,Greenlee,1,0,1,0,NON,President,,WRITE-IN,BLUE
+58,58,Greenlee,5,0,5,0,NON,President,,WRITE-IN,CLIFTON 1
+59,59,Greenlee,2,1,1,0,NON,President,,WRITE-IN,CLIFTON 2
+60,60,Greenlee,16,7,8,1,NON,President,,WRITE-IN,MORENCI
+61,61,Greenlee,3,1,1,1,NON,President,,WRITE-IN,EAST PLANTSITE
+62,62,Greenlee,11,2,9,0,NON,President,,WRITE-IN,YORK/SHELDON
+63,63,Greenlee,19,6,12,1,NON,President,,WRITE-IN,DUNCAN
+64,64,Greenlee,0,0,0,0,,President,,OVER VOTES,EAGLE
+65,65,Greenlee,0,0,0,0,,President,,OVER VOTES,BLUE
+66,66,Greenlee,3,0,3,0,,President,,OVER VOTES,CLIFTON 1
+67,67,Greenlee,0,0,0,0,,President,,OVER VOTES,CLIFTON 2
+68,68,Greenlee,1,0,1,0,,President,,OVER VOTES,MORENCI
+69,69,Greenlee,0,0,0,0,,President,,OVER VOTES,EAST PLANTSITE
+70,70,Greenlee,1,0,1,0,,President,,OVER VOTES,YORK/SHELDON
+71,71,Greenlee,0,0,0,0,,President,,OVER VOTES,DUNCAN
+72,72,Greenlee,0,0,0,0,,President,,UNDER VOTES,EAGLE
+73,73,Greenlee,1,1,0,0,,President,,UNDER VOTES,BLUE
+74,74,Greenlee,19,1,18,0,,President,,UNDER VOTES,CLIFTON 1
+75,75,Greenlee,9,3,6,0,,President,,UNDER VOTES,CLIFTON 2
+76,76,Greenlee,11,1,10,0,,President,,UNDER VOTES,MORENCI
+77,77,Greenlee,1,0,1,0,,President,,UNDER VOTES,EAST PLANTSITE
+78,78,Greenlee,18,9,9,0,,President,,UNDER VOTES,YORK/SHELDON
+79,79,Greenlee,12,3,9,0,,President,,UNDER VOTES,DUNCAN
+80,80,Greenlee,15,1,14,0,REP,U.S. Senate,,"MCCAIN, JOHN",EAGLE
+81,81,Greenlee,25,12,13,0,REP,U.S. Senate,,"MCCAIN, JOHN",BLUE
+82,82,Greenlee,221,58,152,11,REP,U.S. Senate,,"MCCAIN, JOHN",CLIFTON 1
+83,83,Greenlee,183,40,137,6,REP,U.S. Senate,,"MCCAIN, JOHN",CLIFTON 2
+84,84,Greenlee,457,173,254,30,REP,U.S. Senate,,"MCCAIN, JOHN",MORENCI
+85,85,Greenlee,145,53,81,11,REP,U.S. Senate,,"MCCAIN, JOHN",EAST PLANTSITE
+86,86,Greenlee,297,79,206,12,REP,U.S. Senate,,"MCCAIN, JOHN",YORK/SHELDON
+87,87,Greenlee,441,120,300,21,REP,U.S. Senate,,"MCCAIN, JOHN",DUNCAN
+88,88,Greenlee,1,0,1,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",EAGLE
+89,89,Greenlee,1,0,1,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",BLUE
+90,90,Greenlee,342,56,278,8,DEM,U.S. Senate,,"KIRKPATRICK, ANN",CLIFTON 1
+91,91,Greenlee,190,38,148,4,DEM,U.S. Senate,,"KIRKPATRICK, ANN",CLIFTON 2
+92,92,Greenlee,250,74,158,18,DEM,U.S. Senate,,"KIRKPATRICK, ANN",MORENCI
+93,93,Greenlee,62,22,37,3,DEM,U.S. Senate,,"KIRKPATRICK, ANN",EAST PLANTSITE
+94,94,Greenlee,176,44,128,4,DEM,U.S. Senate,,"KIRKPATRICK, ANN",YORK/SHELDON
+95,95,Greenlee,167,41,122,4,DEM,U.S. Senate,,"KIRKPATRICK, ANN",DUNCAN
+96,96,Greenlee,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",EAGLE
+97,97,Greenlee,1,0,1,0,GRN,U.S. Senate,,"SWING, GARY",BLUE
+98,98,Greenlee,44,10,33,1,GRN,U.S. Senate,,"SWING, GARY",CLIFTON 1
+99,99,Greenlee,30,9,20,1,GRN,U.S. Senate,,"SWING, GARY",CLIFTON 2
+100,100,Greenlee,49,11,32,6,GRN,U.S. Senate,,"SWING, GARY",MORENCI
+101,101,Greenlee,22,11,10,1,GRN,U.S. Senate,,"SWING, GARY",EAST PLANTSITE
+102,102,Greenlee,48,13,34,1,GRN,U.S. Senate,,"SWING, GARY",YORK/SHELDON
+103,103,Greenlee,74,20,52,2,GRN,U.S. Senate,,"SWING, GARY",DUNCAN
+104,104,Greenlee,0,0,0,0,NON,U.S. Senate,,WRITE-IN,EAGLE
+105,105,Greenlee,0,0,0,0,NON,U.S. Senate,,WRITE-IN,BLUE
+106,106,Greenlee,4,2,2,0,NON,U.S. Senate,,WRITE-IN,CLIFTON 1
+107,107,Greenlee,4,2,2,0,NON,U.S. Senate,,WRITE-IN,CLIFTON 2
+108,108,Greenlee,8,2,6,0,NON,U.S. Senate,,WRITE-IN,MORENCI
+109,109,Greenlee,2,0,2,0,NON,U.S. Senate,,WRITE-IN,EAST PLANTSITE
+110,110,Greenlee,7,1,6,0,NON,U.S. Senate,,WRITE-IN,YORK/SHELDON
+111,111,Greenlee,10,5,4,1,NON,U.S. Senate,,WRITE-IN,DUNCAN
+112,112,Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,EAGLE
+113,113,Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,BLUE
+114,114,Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,CLIFTON 1
+115,115,Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,CLIFTON 2
+116,116,Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,MORENCI
+117,117,Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,EAST PLANTSITE
+118,118,Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,YORK/SHELDON
+119,119,Greenlee,1,0,1,0,,U.S. Senate,,OVER VOTES,DUNCAN
+120,120,Greenlee,0,0,0,0,,U.S. Senate,,UNDER VOTES,EAGLE
+121,121,Greenlee,2,0,2,0,,U.S. Senate,,UNDER VOTES,BLUE
+122,122,Greenlee,15,3,11,1,,U.S. Senate,,UNDER VOTES,CLIFTON 1
+123,123,Greenlee,20,3,17,0,,U.S. Senate,,UNDER VOTES,CLIFTON 2
+124,124,Greenlee,19,2,16,1,,U.S. Senate,,UNDER VOTES,MORENCI
+125,125,Greenlee,5,2,3,0,,U.S. Senate,,UNDER VOTES,EAST PLANTSITE
+126,126,Greenlee,19,5,13,1,,U.S. Senate,,UNDER VOTES,YORK/SHELDON
+127,127,Greenlee,19,6,13,0,,U.S. Senate,,UNDER VOTES,DUNCAN
+128,128,Greenlee,11,0,11,0,REP,U.S. House,1.0,"BABEU, PAUL",EAGLE
+129,129,Greenlee,24,9,15,0,REP,U.S. House,1.0,"BABEU, PAUL",BLUE
+130,130,Greenlee,168,50,110,8,REP,U.S. House,1.0,"BABEU, PAUL",CLIFTON 1
+131,131,Greenlee,159,35,117,7,REP,U.S. House,1.0,"BABEU, PAUL",CLIFTON 2
+132,132,Greenlee,400,148,228,24,REP,U.S. House,1.0,"BABEU, PAUL",MORENCI
+133,133,Greenlee,136,48,78,10,REP,U.S. House,1.0,"BABEU, PAUL",EAST PLANTSITE
+134,134,Greenlee,226,62,154,10,REP,U.S. House,1.0,"BABEU, PAUL",YORK/SHELDON
+135,135,Greenlee,373,110,245,18,REP,U.S. House,1.0,"BABEU, PAUL",DUNCAN
+136,136,Greenlee,2,1,1,0,DEM,U.S. House,1.0,"O'HALLERAN, TOM",EAGLE
+137,137,Greenlee,5,3,2,0,DEM,U.S. House,1.0,"O'HALLERAN, TOM",BLUE
+138,138,Greenlee,384,61,311,12,DEM,U.S. House,1.0,"O'HALLERAN, TOM",CLIFTON 1
+139,139,Greenlee,215,48,164,3,DEM,U.S. House,1.0,"O'HALLERAN, TOM",CLIFTON 2
+140,140,Greenlee,282,85,176,21,DEM,U.S. House,1.0,"O'HALLERAN, TOM",MORENCI
+141,141,Greenlee,72,28,39,5,DEM,U.S. House,1.0,"O'HALLERAN, TOM",EAST PLANTSITE
+142,142,Greenlee,236,60,172,4,DEM,U.S. House,1.0,"O'HALLERAN, TOM",YORK/SHELDON
+143,143,Greenlee,258,59,190,9,DEM,U.S. House,1.0,"O'HALLERAN, TOM",DUNCAN
+144,144,Greenlee,0,0,0,0,GRN,U.S. House,1.0,"PARRISH, RAY",EAGLE
+145,145,Greenlee,0,0,0,0,GRN,U.S. House,1.0,"PARRISH, RAY",BLUE
+146,146,Greenlee,36,12,23,1,GRN,U.S. House,1.0,"PARRISH, RAY",CLIFTON 1
+147,147,Greenlee,25,4,20,1,GRN,U.S. House,1.0,"PARRISH, RAY",CLIFTON 2
+148,148,Greenlee,56,19,28,9,GRN,U.S. House,1.0,"PARRISH, RAY",MORENCI
+149,149,Greenlee,18,10,8,0,GRN,U.S. House,1.0,"PARRISH, RAY",EAST PLANTSITE
+150,150,Greenlee,43,11,30,2,GRN,U.S. House,1.0,"PARRISH, RAY",YORK/SHELDON
+151,151,Greenlee,42,15,27,0,GRN,U.S. House,1.0,"PARRISH, RAY",DUNCAN
+152,152,Greenlee,0,0,0,0,NON,U.S. House,1.0,WRITE-IN,EAGLE
+153,153,Greenlee,0,0,0,0,NON,U.S. House,1.0,WRITE-IN,BLUE
+154,154,Greenlee,2,1,1,0,NON,U.S. House,1.0,WRITE-IN,CLIFTON 1
+155,155,Greenlee,0,0,0,0,NON,U.S. House,1.0,WRITE-IN,CLIFTON 2
+156,156,Greenlee,6,2,4,0,NON,U.S. House,1.0,WRITE-IN,MORENCI
+157,157,Greenlee,0,0,0,0,NON,U.S. House,1.0,WRITE-IN,EAST PLANTSITE
+158,158,Greenlee,2,1,1,0,NON,U.S. House,1.0,WRITE-IN,YORK/SHELDON
+159,159,Greenlee,2,1,1,0,NON,U.S. House,1.0,WRITE-IN,DUNCAN
+160,160,Greenlee,0,0,0,0,,U.S. House,1.0,OVER VOTES,EAGLE
+161,161,Greenlee,0,0,0,0,,U.S. House,1.0,OVER VOTES,BLUE
+162,162,Greenlee,0,0,0,0,,U.S. House,1.0,OVER VOTES,CLIFTON 1
+163,163,Greenlee,0,0,0,0,,U.S. House,1.0,OVER VOTES,CLIFTON 2
+164,164,Greenlee,0,0,0,0,,U.S. House,1.0,OVER VOTES,MORENCI
+165,165,Greenlee,0,0,0,0,,U.S. House,1.0,OVER VOTES,EAST PLANTSITE
+166,166,Greenlee,0,0,0,0,,U.S. House,1.0,OVER VOTES,YORK/SHELDON
+167,167,Greenlee,0,0,0,0,,U.S. House,1.0,OVER VOTES,DUNCAN
+168,168,Greenlee,3,0,3,0,,U.S. House,1.0,UNDER VOTES,EAGLE
+169,169,Greenlee,0,0,0,0,,U.S. House,1.0,UNDER VOTES,BLUE
+170,170,Greenlee,36,5,31,0,,U.S. House,1.0,UNDER VOTES,CLIFTON 1
+171,171,Greenlee,28,5,23,0,,U.S. House,1.0,UNDER VOTES,CLIFTON 2
+172,172,Greenlee,39,8,30,1,,U.S. House,1.0,UNDER VOTES,MORENCI
+173,173,Greenlee,10,2,8,0,,U.S. House,1.0,UNDER VOTES,EAST PLANTSITE
+174,174,Greenlee,40,8,30,2,,U.S. House,1.0,UNDER VOTES,YORK/SHELDON
+175,175,Greenlee,37,7,29,1,,U.S. House,1.0,UNDER VOTES,DUNCAN
+176,176,Greenlee,14,1,13,0,REP,State Senate,14.0,"GRIFFIN, GAIL",EAGLE
+177,177,Greenlee,25,11,14,0,REP,State Senate,14.0,"GRIFFIN, GAIL",BLUE
+178,178,Greenlee,179,49,124,6,REP,State Senate,14.0,"GRIFFIN, GAIL",CLIFTON 1
+179,179,Greenlee,188,44,139,5,REP,State Senate,14.0,"GRIFFIN, GAIL",CLIFTON 2
+180,180,Greenlee,408,145,232,31,REP,State Senate,14.0,"GRIFFIN, GAIL",MORENCI
+181,181,Greenlee,138,51,78,9,REP,State Senate,14.0,"GRIFFIN, GAIL",EAST PLANTSITE
+182,182,Greenlee,284,70,203,11,REP,State Senate,14.0,"GRIFFIN, GAIL",YORK/SHELDON
+183,183,Greenlee,447,126,303,18,REP,State Senate,14.0,"GRIFFIN, GAIL",DUNCAN
+184,184,Greenlee,1,0,1,0,DEM,State Senate,14.0,"ALVAREZ, JAMIE",EAGLE
+185,185,Greenlee,4,1,3,0,DEM,State Senate,14.0,"ALVAREZ, JAMIE",BLUE
+186,186,Greenlee,418,74,330,14,DEM,State Senate,14.0,"ALVAREZ, JAMIE",CLIFTON 1
+187,187,Greenlee,222,45,171,6,DEM,State Senate,14.0,"ALVAREZ, JAMIE",CLIFTON 2
+188,188,Greenlee,334,108,204,22,DEM,State Senate,14.0,"ALVAREZ, JAMIE",MORENCI
+189,189,Greenlee,86,36,44,6,DEM,State Senate,14.0,"ALVAREZ, JAMIE",EAST PLANTSITE
+190,190,Greenlee,231,64,162,5,DEM,State Senate,14.0,"ALVAREZ, JAMIE",YORK/SHELDON
+191,191,Greenlee,229,62,158,9,DEM,State Senate,14.0,"ALVAREZ, JAMIE",DUNCAN
+192,192,Greenlee,0,0,0,0,NON,State Senate,14.0,WRITE-IN,EAGLE
+193,193,Greenlee,0,0,0,0,NON,State Senate,14.0,WRITE-IN,BLUE
+194,194,Greenlee,2,1,0,1,NON,State Senate,14.0,WRITE-IN,CLIFTON 1
+195,195,Greenlee,1,0,1,0,NON,State Senate,14.0,WRITE-IN,CLIFTON 2
+196,196,Greenlee,2,2,0,0,NON,State Senate,14.0,WRITE-IN,MORENCI
+197,197,Greenlee,0,0,0,0,NON,State Senate,14.0,WRITE-IN,EAST PLANTSITE
+198,198,Greenlee,0,0,0,0,NON,State Senate,14.0,WRITE-IN,YORK/SHELDON
+199,199,Greenlee,0,0,0,0,NON,State Senate,14.0,WRITE-IN,DUNCAN
+200,200,Greenlee,0,0,0,0,,State Senate,14.0,OVER VOTES,EAGLE
+201,201,Greenlee,0,0,0,0,,State Senate,14.0,OVER VOTES,BLUE
+202,202,Greenlee,0,0,0,0,,State Senate,14.0,OVER VOTES,CLIFTON 1
+203,203,Greenlee,0,0,0,0,,State Senate,14.0,OVER VOTES,CLIFTON 2
+204,204,Greenlee,0,0,0,0,,State Senate,14.0,OVER VOTES,MORENCI
+205,205,Greenlee,0,0,0,0,,State Senate,14.0,OVER VOTES,EAST PLANTSITE
+206,206,Greenlee,0,0,0,0,,State Senate,14.0,OVER VOTES,YORK/SHELDON
+207,207,Greenlee,0,0,0,0,,State Senate,14.0,OVER VOTES,DUNCAN
+208,208,Greenlee,1,0,1,0,,State Senate,14.0,UNDER VOTES,EAGLE
+209,209,Greenlee,0,0,0,0,,State Senate,14.0,UNDER VOTES,BLUE
+210,210,Greenlee,27,5,22,0,,State Senate,14.0,UNDER VOTES,CLIFTON 1
+211,211,Greenlee,16,3,13,0,,State Senate,14.0,UNDER VOTES,CLIFTON 2
+212,212,Greenlee,39,7,30,2,,State Senate,14.0,UNDER VOTES,MORENCI
+213,213,Greenlee,12,1,11,0,,State Senate,14.0,UNDER VOTES,EAST PLANTSITE
+214,214,Greenlee,32,8,22,2,,State Senate,14.0,UNDER VOTES,YORK/SHELDON
+215,215,Greenlee,36,4,31,1,,State Senate,14.0,UNDER VOTES,DUNCAN
+216,216,Greenlee,14,0,14,0,REP,State Representative,14.0,"JOHN, DREW",EAGLE
+217,217,Greenlee,25,11,14,0,REP,State Representative,14.0,"JOHN, DREW",BLUE
+218,218,Greenlee,206,55,141,10,REP,State Representative,14.0,"JOHN, DREW",CLIFTON 1
+219,219,Greenlee,180,44,128,8,REP,State Representative,14.0,"JOHN, DREW",CLIFTON 2
+220,220,Greenlee,426,165,226,35,REP,State Representative,14.0,"JOHN, DREW",MORENCI
+221,221,Greenlee,131,53,67,11,REP,State Representative,14.0,"JOHN, DREW",EAST PLANTSITE
+222,222,Greenlee,283,77,194,12,REP,State Representative,14.0,"JOHN, DREW",YORK/SHELDON
+223,223,Greenlee,450,135,296,19,REP,State Representative,14.0,"JOHN, DREW",DUNCAN
+224,224,Greenlee,15,1,14,0,REP,State Representative,14.0,"NUTT, BECKY",EAGLE
+225,225,Greenlee,25,11,14,0,REP,State Representative,14.0,"NUTT, BECKY",BLUE
+226,226,Greenlee,200,61,130,9,REP,State Representative,14.0,"NUTT, BECKY",CLIFTON 1
+227,227,Greenlee,210,59,145,6,REP,State Representative,14.0,"NUTT, BECKY",CLIFTON 2
+228,228,Greenlee,377,155,189,33,REP,State Representative,14.0,"NUTT, BECKY",MORENCI
+229,229,Greenlee,127,59,59,9,REP,State Representative,14.0,"NUTT, BECKY",EAST PLANTSITE
+230,230,Greenlee,298,87,202,9,REP,State Representative,14.0,"NUTT, BECKY",YORK/SHELDON
+231,231,Greenlee,421,129,273,19,REP,State Representative,14.0,"NUTT, BECKY",DUNCAN
+232,232,Greenlee,2,1,1,0,DEM,State Representative,14.0,"HOLMES, MIKE",EAGLE
+233,233,Greenlee,2,1,1,0,DEM,State Representative,14.0,"HOLMES, MIKE",BLUE
+234,234,Greenlee,343,59,275,9,DEM,State Representative,14.0,"HOLMES, MIKE",CLIFTON 1
+235,235,Greenlee,194,36,154,4,DEM,State Representative,14.0,"HOLMES, MIKE",CLIFTON 2
+236,236,Greenlee,261,88,160,13,DEM,State Representative,14.0,"HOLMES, MIKE",MORENCI
+237,237,Greenlee,65,26,35,4,DEM,State Representative,14.0,"HOLMES, MIKE",EAST PLANTSITE
+238,238,Greenlee,168,39,124,5,DEM,State Representative,14.0,"HOLMES, MIKE",YORK/SHELDON
+239,239,Greenlee,201,54,142,5,DEM,State Representative,14.0,"HOLMES, MIKE",DUNCAN
+240,240,Greenlee,1,0,1,0,DEM,State Representative,14.0,"LINDSTROM, JASON",EAGLE
+241,241,Greenlee,1,0,1,0,DEM,State Representative,14.0,"LINDSTROM, JASON",BLUE
+242,242,Greenlee,311,53,248,10,DEM,State Representative,14.0,"LINDSTROM, JASON",CLIFTON 1
+243,243,Greenlee,157,27,126,4,DEM,State Representative,14.0,"LINDSTROM, JASON",CLIFTON 2
+244,244,Greenlee,218,62,141,15,DEM,State Representative,14.0,"LINDSTROM, JASON",MORENCI
+245,245,Greenlee,55,25,27,3,DEM,State Representative,14.0,"LINDSTROM, JASON",EAST PLANTSITE
+246,246,Greenlee,157,42,112,3,DEM,State Representative,14.0,"LINDSTROM, JASON",YORK/SHELDON
+247,247,Greenlee,140,36,101,3,DEM,State Representative,14.0,"LINDSTROM, JASON",DUNCAN
+248,248,Greenlee,0,0,0,0,NON,State Representative,14.0,WRITE-IN,EAGLE
+249,249,Greenlee,0,0,0,0,NON,State Representative,14.0,WRITE-IN,BLUE
+250,250,Greenlee,3,1,1,1,NON,State Representative,14.0,WRITE-IN,CLIFTON 1
+251,251,Greenlee,0,0,0,0,NON,State Representative,14.0,WRITE-IN,CLIFTON 2
+252,252,Greenlee,4,2,2,0,NON,State Representative,14.0,WRITE-IN,MORENCI
+253,253,Greenlee,0,0,0,0,NON,State Representative,14.0,WRITE-IN,EAST PLANTSITE
+254,254,Greenlee,1,0,1,0,NON,State Representative,14.0,WRITE-IN,YORK/SHELDON
+255,255,Greenlee,1,0,1,0,NON,State Representative,14.0,WRITE-IN,DUNCAN
+256,256,Greenlee,0,0,0,0,,State Representative,14.0,OVER VOTES,EAGLE
+257,257,Greenlee,0,0,0,0,,State Representative,14.0,OVER VOTES,BLUE
+258,258,Greenlee,0,0,0,0,,State Representative,14.0,OVER VOTES,CLIFTON 1
+259,259,Greenlee,0,0,0,0,,State Representative,14.0,OVER VOTES,CLIFTON 2
+260,260,Greenlee,0,0,0,0,,State Representative,14.0,OVER VOTES,MORENCI
+261,261,Greenlee,0,0,0,0,,State Representative,14.0,OVER VOTES,EAST PLANTSITE
+262,262,Greenlee,0,0,0,0,,State Representative,14.0,OVER VOTES,YORK/SHELDON
+263,263,Greenlee,0,0,0,0,,State Representative,14.0,OVER VOTES,DUNCAN
+264,264,Greenlee,0,0,0,0,,State Representative,14.0,UNDER VOTES,EAGLE
+265,265,Greenlee,5,1,4,0,,State Representative,14.0,UNDER VOTES,BLUE
+266,266,Greenlee,189,29,157,3,,State Representative,14.0,UNDER VOTES,CLIFTON 1
+267,267,Greenlee,113,18,95,0,,State Representative,14.0,UNDER VOTES,CLIFTON 2
+268,268,Greenlee,280,52,214,14,,State Representative,14.0,UNDER VOTES,MORENCI
+269,269,Greenlee,94,13,78,3,,State Representative,14.0,UNDER VOTES,EAST PLANTSITE
+270,270,Greenlee,187,39,141,7,,State Representative,14.0,UNDER VOTES,YORK/SHELDON
+271,271,Greenlee,211,30,171,10,,State Representative,14.0,UNDER VOTES,DUNCAN
+272,272,Greenlee,13,1,12,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",EAGLE
+273,273,Greenlee,26,11,15,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",BLUE
+274,274,Greenlee,219,63,147,9,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",CLIFTON 1
+275,275,Greenlee,199,48,144,7,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",CLIFTON 2
+276,276,Greenlee,385,167,185,33,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",MORENCI
+277,277,Greenlee,122,59,53,10,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",EAST PLANTSITE
+278,278,Greenlee,273,84,179,10,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",YORK/SHELDON
+279,279,Greenlee,429,140,271,18,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",DUNCAN
+280,280,Greenlee,12,1,11,0,REP,Corporation Commissioner,,"DUNN, BOYD",EAGLE
+281,281,Greenlee,23,9,14,0,REP,Corporation Commissioner,,"DUNN, BOYD",BLUE
+282,282,Greenlee,189,66,115,8,REP,Corporation Commissioner,,"DUNN, BOYD",CLIFTON 1
+283,283,Greenlee,171,46,119,6,REP,Corporation Commissioner,,"DUNN, BOYD",CLIFTON 2
+284,284,Greenlee,397,169,191,37,REP,Corporation Commissioner,,"DUNN, BOYD",MORENCI
+285,285,Greenlee,120,53,56,11,REP,Corporation Commissioner,,"DUNN, BOYD",EAST PLANTSITE
+286,286,Greenlee,244,79,153,12,REP,Corporation Commissioner,,"DUNN, BOYD",YORK/SHELDON
+287,287,Greenlee,424,141,264,19,REP,Corporation Commissioner,,"DUNN, BOYD",DUNCAN
+288,288,Greenlee,14,1,13,0,REP,Corporation Commissioner,,"TOBIN, ANDY",EAGLE
+289,289,Greenlee,23,10,13,0,REP,Corporation Commissioner,,"TOBIN, ANDY",BLUE
+290,290,Greenlee,205,58,135,12,REP,Corporation Commissioner,,"TOBIN, ANDY",CLIFTON 1
+291,291,Greenlee,189,49,132,8,REP,Corporation Commissioner,,"TOBIN, ANDY",CLIFTON 2
+292,292,Greenlee,426,183,207,36,REP,Corporation Commissioner,,"TOBIN, ANDY",MORENCI
+293,293,Greenlee,129,50,70,9,REP,Corporation Commissioner,,"TOBIN, ANDY",EAST PLANTSITE
+294,294,Greenlee,277,91,177,9,REP,Corporation Commissioner,,"TOBIN, ANDY",YORK/SHELDON
+295,295,Greenlee,410,138,257,15,REP,Corporation Commissioner,,"TOBIN, ANDY",DUNCAN
+296,296,Greenlee,1,0,1,0,DEM,Corporation Commissioner,,"CHABIN, TOM",EAGLE
+297,297,Greenlee,3,1,2,0,DEM,Corporation Commissioner,,"CHABIN, TOM",BLUE
+298,298,Greenlee,336,62,264,10,DEM,Corporation Commissioner,,"CHABIN, TOM",CLIFTON 1
+299,299,Greenlee,195,41,150,4,DEM,Corporation Commissioner,,"CHABIN, TOM",CLIFTON 2
+300,300,Greenlee,263,90,156,17,DEM,Corporation Commissioner,,"CHABIN, TOM",MORENCI
+301,301,Greenlee,65,32,28,5,DEM,Corporation Commissioner,,"CHABIN, TOM",EAST PLANTSITE
+302,302,Greenlee,176,48,125,3,DEM,Corporation Commissioner,,"CHABIN, TOM",YORK/SHELDON
+303,303,Greenlee,204,50,147,7,DEM,Corporation Commissioner,,"CHABIN, TOM",DUNCAN
+304,304,Greenlee,2,0,2,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",EAGLE
+305,305,Greenlee,5,3,2,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",BLUE
+306,306,Greenlee,347,61,276,10,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",CLIFTON 1
+307,307,Greenlee,204,45,152,7,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",CLIFTON 2
+308,308,Greenlee,252,89,150,13,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",MORENCI
+309,309,Greenlee,62,31,27,4,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",EAST PLANTSITE
+310,310,Greenlee,187,53,128,6,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",YORK/SHELDON
+311,311,Greenlee,186,47,133,6,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",DUNCAN
+312,312,Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,EAGLE
+313,313,Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,BLUE
+314,314,Greenlee,10,4,4,2,NON,Corporation Commissioner,,WRITE-IN,CLIFTON 1
+315,315,Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,CLIFTON 2
+316,316,Greenlee,3,1,2,0,NON,Corporation Commissioner,,WRITE-IN,MORENCI
+317,317,Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,EAST PLANTSITE
+318,318,Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,YORK/SHELDON
+319,319,Greenlee,2,2,0,0,NON,Corporation Commissioner,,WRITE-IN,DUNCAN
+320,320,Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,EAGLE
+321,321,Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,BLUE
+322,322,Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,CLIFTON 1
+323,323,Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,CLIFTON 2
+324,324,Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,MORENCI
+325,325,Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,EAST PLANTSITE
+326,326,Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,YORK/SHELDON
+327,327,Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,DUNCAN
+328,328,Greenlee,6,0,6,0,,Corporation Commissioner,,UNDER VOTES,EAGLE
+329,329,Greenlee,7,2,5,0,,Corporation Commissioner,,UNDER VOTES,BLUE
+330,330,Greenlee,572,73,487,12,,Corporation Commissioner,,UNDER VOTES,CLIFTON 1
+331,331,Greenlee,323,47,275,1,,Corporation Commissioner,,UNDER VOTES,CLIFTON 2
+332,332,Greenlee,623,87,507,29,,Corporation Commissioner,,UNDER VOTES,MORENCI
+333,333,Greenlee,210,39,165,6,,Corporation Commissioner,,UNDER VOTES,EAST PLANTSITE
+334,334,Greenlee,484,71,399,14,,Corporation Commissioner,,UNDER VOTES,YORK/SHELDON
+335,335,Greenlee,481,58,404,19,,Corporation Commissioner,,UNDER VOTES,DUNCAN
+336,336,Greenlee,332,51,272,9,DEM,Board of Supervisors Dist. 1,,"GOMEZ, DAVID",CLIFTON 1
+337,337,Greenlee,196,32,161,3,DEM,Board of Supervisors Dist. 1,,"GOMEZ, DAVID",CLIFTON 2
+338,338,Greenlee,273,72,189,12,IND,Board of Supervisors Dist. 1,,"DUNAGAN, SHANE",CLIFTON 1
+339,339,Greenlee,224,58,158,8,IND,Board of Supervisors Dist. 1,,"DUNAGAN, SHANE",CLIFTON 2
+340,340,Greenlee,1,0,1,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,CLIFTON 1
+341,341,Greenlee,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,CLIFTON 2
+342,342,Greenlee,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,CLIFTON 1
+343,343,Greenlee,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,CLIFTON 2
+344,344,Greenlee,20,6,14,0,,Board of Supervisors Dist. 1,,UNDER VOTES,CLIFTON 1
+345,345,Greenlee,7,2,5,0,,Board of Supervisors Dist. 1,,UNDER VOTES,CLIFTON 2
+346,346,Greenlee,13,1,12,0,IND,Board of Supervisors Dist. 2,,"CAMPBELL, RON",EAGLE
+347,347,Greenlee,26,12,14,0,IND,Board of Supervisors Dist. 2,,"CAMPBELL, RON",BLUE
+348,348,Greenlee,697,244,402,51,IND,Board of Supervisors Dist. 2,,"CAMPBELL, RON",MORENCI
+349,349,Greenlee,196,77,105,14,IND,Board of Supervisors Dist. 2,,"CAMPBELL, RON",EAST PLANTSITE
+350,350,Greenlee,0,0,0,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,EAGLE
+351,351,Greenlee,0,0,0,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,BLUE
+352,352,Greenlee,6,4,2,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,MORENCI
+353,353,Greenlee,6,3,3,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,EAST PLANTSITE
+354,354,Greenlee,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,EAGLE
+355,355,Greenlee,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,BLUE
+356,356,Greenlee,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,MORENCI
+357,357,Greenlee,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,EAST PLANTSITE
+358,358,Greenlee,3,0,3,0,,Board of Supervisors Dist. 2,,UNDER VOTES,EAGLE
+359,359,Greenlee,3,0,3,0,,Board of Supervisors Dist. 2,,UNDER VOTES,BLUE
+360,360,Greenlee,80,14,62,4,,Board of Supervisors Dist. 2,,UNDER VOTES,MORENCI
+361,361,Greenlee,34,8,25,1,,Board of Supervisors Dist. 2,,UNDER VOTES,EAST PLANTSITE
+362,362,Greenlee,264,62,195,7,IND,Board of Supervisors Dist. 3,,"CORBELL, ROBERT",YORK/SHELDON
+363,363,Greenlee,185,50,129,6,IND,Board of Supervisors Dist. 3,,"CORBELL, ROBERT",DUNCAN
+364,364,Greenlee,265,75,180,10,IND,Board of Supervisors Dist. 3,,"LUNT, RICHARD",YORK/SHELDON
+365,365,Greenlee,512,141,349,22,IND,Board of Supervisors Dist. 3,,"LUNT, RICHARD",DUNCAN
+366,366,Greenlee,2,0,1,1,NON,Board of Supervisors Dist. 3,,WRITE-IN,YORK/SHELDON
+367,367,Greenlee,3,1,2,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,DUNCAN
+368,368,Greenlee,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,YORK/SHELDON
+369,369,Greenlee,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,DUNCAN
+370,370,Greenlee,16,5,11,0,,Board of Supervisors Dist. 3,,UNDER VOTES,YORK/SHELDON
+371,371,Greenlee,12,0,12,0,,Board of Supervisors Dist. 3,,UNDER VOTES,DUNCAN
+372,372,Greenlee,8,1,7,0,IND,County Attorney,,"FORD, JEREMY",EAGLE
+373,373,Greenlee,25,12,13,0,IND,County Attorney,,"FORD, JEREMY",BLUE
+374,374,Greenlee,454,103,333,18,IND,County Attorney,,"FORD, JEREMY",CLIFTON 1
+375,375,Greenlee,317,76,230,11,IND,County Attorney,,"FORD, JEREMY",CLIFTON 2
+376,376,Greenlee,675,242,384,49,IND,County Attorney,,"FORD, JEREMY",MORENCI
+377,377,Greenlee,196,78,104,14,IND,County Attorney,,"FORD, JEREMY",EAST PLANTSITE
+378,378,Greenlee,410,119,278,13,IND,County Attorney,,"FORD, JEREMY",YORK/SHELDON
+379,379,Greenlee,575,172,377,26,IND,County Attorney,,"FORD, JEREMY",DUNCAN
+380,380,Greenlee,0,0,0,0,NON,County Attorney,,WRITE-IN,EAGLE
+381,381,Greenlee,0,0,0,0,NON,County Attorney,,WRITE-IN,BLUE
+382,382,Greenlee,2,0,2,0,NON,County Attorney,,WRITE-IN,CLIFTON 1
+383,383,Greenlee,0,0,0,0,NON,County Attorney,,WRITE-IN,CLIFTON 2
+384,384,Greenlee,4,4,0,0,NON,County Attorney,,WRITE-IN,MORENCI
+385,385,Greenlee,4,3,1,0,NON,County Attorney,,WRITE-IN,EAST PLANTSITE
+386,386,Greenlee,4,0,3,1,NON,County Attorney,,WRITE-IN,YORK/SHELDON
+387,387,Greenlee,8,5,3,0,NON,County Attorney,,WRITE-IN,DUNCAN
+388,388,Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,EAGLE
+389,389,Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,BLUE
+390,390,Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,CLIFTON 1
+391,391,Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,CLIFTON 2
+392,392,Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,MORENCI
+393,393,Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,EAST PLANTSITE
+394,394,Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,YORK/SHELDON
+395,395,Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,DUNCAN
+396,396,Greenlee,8,0,8,0,,County Attorney,,UNDER VOTES,EAGLE
+397,397,Greenlee,4,0,4,0,,County Attorney,,UNDER VOTES,BLUE
+398,398,Greenlee,170,26,141,3,,County Attorney,,UNDER VOTES,CLIFTON 1
+399,399,Greenlee,110,16,94,0,,County Attorney,,UNDER VOTES,CLIFTON 2
+400,400,Greenlee,104,16,82,6,,County Attorney,,UNDER VOTES,MORENCI
+401,401,Greenlee,36,7,28,1,,County Attorney,,UNDER VOTES,EAST PLANTSITE
+402,402,Greenlee,133,23,106,4,,County Attorney,,UNDER VOTES,YORK/SHELDON
+403,403,Greenlee,129,15,112,2,,County Attorney,,UNDER VOTES,DUNCAN
+404,404,Greenlee,5,1,4,0,REP,County Sheriff,,"SUMNER, TIM",EAGLE
+405,405,Greenlee,9,1,8,0,REP,County Sheriff,,"SUMNER, TIM",BLUE
+406,406,Greenlee,272,73,187,12,REP,County Sheriff,,"SUMNER, TIM",CLIFTON 1
+407,407,Greenlee,200,37,157,6,REP,County Sheriff,,"SUMNER, TIM",CLIFTON 2
+408,408,Greenlee,496,176,284,36,REP,County Sheriff,,"SUMNER, TIM",MORENCI
+409,409,Greenlee,156,61,83,12,REP,County Sheriff,,"SUMNER, TIM",EAST PLANTSITE
+410,410,Greenlee,242,61,170,11,REP,County Sheriff,,"SUMNER, TIM",YORK/SHELDON
+411,411,Greenlee,416,123,273,20,REP,County Sheriff,,"SUMNER, TIM",DUNCAN
+412,412,Greenlee,10,0,10,0,DEM,County Sheriff,,"AVILA, C. LARRY",EAGLE
+413,413,Greenlee,20,11,9,0,DEM,County Sheriff,,"AVILA, C. LARRY",BLUE
+414,414,Greenlee,340,53,278,9,DEM,County Sheriff,,"AVILA, C. LARRY",CLIFTON 1
+415,415,Greenlee,220,52,163,5,DEM,County Sheriff,,"AVILA, C. LARRY",CLIFTON 2
+416,416,Greenlee,272,83,172,17,DEM,County Sheriff,,"AVILA, C. LARRY",MORENCI
+417,417,Greenlee,71,26,42,3,DEM,County Sheriff,,"AVILA, C. LARRY",EAST PLANTSITE
+418,418,Greenlee,294,75,212,7,DEM,County Sheriff,,"AVILA, C. LARRY",YORK/SHELDON
+419,419,Greenlee,289,68,213,8,DEM,County Sheriff,,"AVILA, C. LARRY",DUNCAN
+420,420,Greenlee,0,0,0,0,NON,County Sheriff,,WRITE-IN,EAGLE
+421,421,Greenlee,0,0,0,0,NON,County Sheriff,,WRITE-IN,BLUE
+422,422,Greenlee,1,1,0,0,NON,County Sheriff,,WRITE-IN,CLIFTON 1
+423,423,Greenlee,0,0,0,0,NON,County Sheriff,,WRITE-IN,CLIFTON 2
+424,424,Greenlee,1,0,1,0,NON,County Sheriff,,WRITE-IN,MORENCI
+425,425,Greenlee,0,0,0,0,NON,County Sheriff,,WRITE-IN,EAST PLANTSITE
+426,426,Greenlee,2,2,0,0,NON,County Sheriff,,WRITE-IN,YORK/SHELDON
+427,427,Greenlee,2,0,2,0,NON,County Sheriff,,WRITE-IN,DUNCAN
+428,428,Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,EAGLE
+429,429,Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,BLUE
+430,430,Greenlee,2,0,2,0,,County Sheriff,,OVER VOTES,CLIFTON 1
+431,431,Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,CLIFTON 2
+432,432,Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,MORENCI
+433,433,Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,EAST PLANTSITE
+434,434,Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,YORK/SHELDON
+435,435,Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,DUNCAN
+436,436,Greenlee,1,0,1,0,,County Sheriff,,UNDER VOTES,EAGLE
+437,437,Greenlee,0,0,0,0,,County Sheriff,,UNDER VOTES,BLUE
+438,438,Greenlee,11,2,9,0,,County Sheriff,,UNDER VOTES,CLIFTON 1
+439,439,Greenlee,7,3,4,0,,County Sheriff,,UNDER VOTES,CLIFTON 2
+440,440,Greenlee,14,3,9,2,,County Sheriff,,UNDER VOTES,MORENCI
+441,441,Greenlee,9,1,8,0,,County Sheriff,,UNDER VOTES,EAST PLANTSITE
+442,442,Greenlee,9,4,5,0,,County Sheriff,,UNDER VOTES,YORK/SHELDON
+443,443,Greenlee,5,1,4,0,,County Sheriff,,UNDER VOTES,DUNCAN
+444,444,Greenlee,12,1,11,0,IND,County Treasurer,,"BERUBE, DIANE",EAGLE
+445,445,Greenlee,27,12,15,0,IND,County Treasurer,,"BERUBE, DIANE",BLUE
+446,446,Greenlee,508,113,375,20,IND,County Treasurer,,"BERUBE, DIANE",CLIFTON 1
+447,447,Greenlee,375,84,280,11,IND,County Treasurer,,"BERUBE, DIANE",CLIFTON 2
+448,448,Greenlee,705,251,404,50,IND,County Treasurer,,"BERUBE, DIANE",MORENCI
+449,449,Greenlee,196,80,102,14,IND,County Treasurer,,"BERUBE, DIANE",EAST PLANTSITE
+450,450,Greenlee,464,126,323,15,IND,County Treasurer,,"BERUBE, DIANE",YORK/SHELDON
+451,451,Greenlee,621,180,416,25,IND,County Treasurer,,"BERUBE, DIANE",DUNCAN
+452,452,Greenlee,0,0,0,0,NON,County Treasurer,,WRITE-IN,EAGLE
+453,453,Greenlee,0,0,0,0,NON,County Treasurer,,WRITE-IN,BLUE
+454,454,Greenlee,7,2,5,0,NON,County Treasurer,,WRITE-IN,CLIFTON 1
+455,455,Greenlee,0,0,0,0,NON,County Treasurer,,WRITE-IN,CLIFTON 2
+456,456,Greenlee,1,1,0,0,NON,County Treasurer,,WRITE-IN,MORENCI
+457,457,Greenlee,4,2,2,0,NON,County Treasurer,,WRITE-IN,EAST PLANTSITE
+458,458,Greenlee,3,2,0,1,NON,County Treasurer,,WRITE-IN,YORK/SHELDON
+459,459,Greenlee,3,1,1,1,NON,County Treasurer,,WRITE-IN,DUNCAN
+460,460,Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,EAGLE
+461,461,Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,BLUE
+462,462,Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,CLIFTON 1
+463,463,Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,CLIFTON 2
+464,464,Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,MORENCI
+465,465,Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,EAST PLANTSITE
+466,466,Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,YORK/SHELDON
+467,467,Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,DUNCAN
+468,468,Greenlee,4,0,4,0,,County Treasurer,,UNDER VOTES,EAGLE
+469,469,Greenlee,2,0,2,0,,County Treasurer,,UNDER VOTES,BLUE
+470,470,Greenlee,111,14,96,1,,County Treasurer,,UNDER VOTES,CLIFTON 1
+471,471,Greenlee,52,8,44,0,,County Treasurer,,UNDER VOTES,CLIFTON 2
+472,472,Greenlee,77,10,62,5,,County Treasurer,,UNDER VOTES,MORENCI
+473,473,Greenlee,36,6,29,1,,County Treasurer,,UNDER VOTES,EAST PLANTSITE
+474,474,Greenlee,80,14,64,2,,County Treasurer,,UNDER VOTES,YORK/SHELDON
+475,475,Greenlee,88,11,75,2,,County Treasurer,,UNDER VOTES,DUNCAN
+476,476,Greenlee,12,1,11,0,DEM,County School Superintendent,,"POWERS, TOM",EAGLE
+477,477,Greenlee,25,12,13,0,DEM,County School Superintendent,,"POWERS, TOM",BLUE
+478,478,Greenlee,539,113,406,20,DEM,County School Superintendent,,"POWERS, TOM",CLIFTON 1
+479,479,Greenlee,371,84,276,11,DEM,County School Superintendent,,"POWERS, TOM",CLIFTON 2
+480,480,Greenlee,670,237,386,47,DEM,County School Superintendent,,"POWERS, TOM",MORENCI
+481,481,Greenlee,194,79,100,15,DEM,County School Superintendent,,"POWERS, TOM",EAST PLANTSITE
+482,482,Greenlee,443,120,307,16,DEM,County School Superintendent,,"POWERS, TOM",YORK/SHELDON
+483,483,Greenlee,586,169,394,23,DEM,County School Superintendent,,"POWERS, TOM",DUNCAN
+484,484,Greenlee,0,0,0,0,NON,County School Superintendent,,WRITE-IN,EAGLE
+485,485,Greenlee,0,0,0,0,NON,County School Superintendent,,WRITE-IN,BLUE
+486,486,Greenlee,8,6,2,0,NON,County School Superintendent,,WRITE-IN,CLIFTON 1
+487,487,Greenlee,0,0,0,0,NON,County School Superintendent,,WRITE-IN,CLIFTON 2
+488,488,Greenlee,19,10,5,4,NON,County School Superintendent,,WRITE-IN,MORENCI
+489,489,Greenlee,5,2,3,0,NON,County School Superintendent,,WRITE-IN,EAST PLANTSITE
+490,490,Greenlee,8,5,2,1,NON,County School Superintendent,,WRITE-IN,YORK/SHELDON
+491,491,Greenlee,11,7,3,1,NON,County School Superintendent,,WRITE-IN,DUNCAN
+492,492,Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,EAGLE
+493,493,Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,BLUE
+494,494,Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,CLIFTON 1
+495,495,Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,CLIFTON 2
+496,496,Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,MORENCI
+497,497,Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,EAST PLANTSITE
+498,498,Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,YORK/SHELDON
+499,499,Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,DUNCAN
+500,500,Greenlee,4,0,4,0,,County School Superintendent,,UNDER VOTES,EAGLE
+501,501,Greenlee,4,0,4,0,,County School Superintendent,,UNDER VOTES,BLUE
+502,502,Greenlee,79,10,68,1,,County School Superintendent,,UNDER VOTES,CLIFTON 1
+503,503,Greenlee,56,8,48,0,,County School Superintendent,,UNDER VOTES,CLIFTON 2
+504,504,Greenlee,94,15,75,4,,County School Superintendent,,UNDER VOTES,MORENCI
+505,505,Greenlee,37,7,30,0,,County School Superintendent,,UNDER VOTES,EAST PLANTSITE
+506,506,Greenlee,96,17,78,1,,County School Superintendent,,UNDER VOTES,YORK/SHELDON
+507,507,Greenlee,115,16,95,4,,County School Superintendent,,UNDER VOTES,DUNCAN
+508,508,Greenlee,10,1,9,0,DEM,County Recorder,,"MANUZ, BERTA",EAGLE
+509,509,Greenlee,26,12,14,0,DEM,County Recorder,,"MANUZ, BERTA",BLUE
+510,510,Greenlee,564,120,425,19,DEM,County Recorder,,"MANUZ, BERTA",CLIFTON 1
+511,511,Greenlee,397,89,297,11,DEM,County Recorder,,"MANUZ, BERTA",CLIFTON 2
+512,512,Greenlee,690,243,397,50,DEM,County Recorder,,"MANUZ, BERTA",MORENCI
+513,513,Greenlee,195,80,100,15,DEM,County Recorder,,"MANUZ, BERTA",EAST PLANTSITE
+514,514,Greenlee,468,126,327,15,DEM,County Recorder,,"MANUZ, BERTA",YORK/SHELDON
+515,515,Greenlee,613,173,418,22,DEM,County Recorder,,"MANUZ, BERTA",DUNCAN
+516,516,Greenlee,0,0,0,0,NON,County Recorder,,WRITE-IN,EAGLE
+517,517,Greenlee,0,0,0,0,NON,County Recorder,,WRITE-IN,BLUE
+518,518,Greenlee,1,0,1,0,NON,County Recorder,,WRITE-IN,CLIFTON 1
+519,519,Greenlee,0,0,0,0,NON,County Recorder,,WRITE-IN,CLIFTON 2
+520,520,Greenlee,7,3,1,3,NON,County Recorder,,WRITE-IN,MORENCI
+521,521,Greenlee,3,1,2,0,NON,County Recorder,,WRITE-IN,EAST PLANTSITE
+522,522,Greenlee,6,4,1,1,NON,County Recorder,,WRITE-IN,YORK/SHELDON
+523,523,Greenlee,10,7,1,2,NON,County Recorder,,WRITE-IN,DUNCAN
+524,524,Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,EAGLE
+525,525,Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,BLUE
+526,526,Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,CLIFTON 1
+527,527,Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,CLIFTON 2
+528,528,Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,MORENCI
+529,529,Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,EAST PLANTSITE
+530,530,Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,YORK/SHELDON
+531,531,Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,DUNCAN
+532,532,Greenlee,6,0,6,0,,County Recorder,,UNDER VOTES,EAGLE
+533,533,Greenlee,3,0,3,0,,County Recorder,,UNDER VOTES,BLUE
+534,534,Greenlee,61,9,50,2,,County Recorder,,UNDER VOTES,CLIFTON 1
+535,535,Greenlee,30,3,27,0,,County Recorder,,UNDER VOTES,CLIFTON 2
+536,536,Greenlee,86,16,68,2,,County Recorder,,UNDER VOTES,MORENCI
+537,537,Greenlee,38,7,31,0,,County Recorder,,UNDER VOTES,EAST PLANTSITE
+538,538,Greenlee,73,12,59,2,,County Recorder,,UNDER VOTES,YORK/SHELDON
+539,539,Greenlee,89,12,73,4,,County Recorder,,UNDER VOTES,DUNCAN
+540,540,Greenlee,11,1,10,0,DEM,County Assessor,,"DURR, LINDA",EAGLE
+541,541,Greenlee,17,10,7,0,DEM,County Assessor,,"DURR, LINDA",BLUE
+542,542,Greenlee,411,78,323,10,DEM,County Assessor,,"DURR, LINDA",CLIFTON 1
+543,543,Greenlee,270,61,204,5,DEM,County Assessor,,"DURR, LINDA",CLIFTON 2
+544,544,Greenlee,413,150,238,25,DEM,County Assessor,,"DURR, LINDA",MORENCI
+545,545,Greenlee,105,37,59,9,DEM,County Assessor,,"DURR, LINDA",EAST PLANTSITE
+546,546,Greenlee,283,69,208,6,DEM,County Assessor,,"DURR, LINDA",YORK/SHELDON
+547,547,Greenlee,392,99,276,17,DEM,County Assessor,,"DURR, LINDA",DUNCAN
+548,548,Greenlee,2,0,2,0,IND,County Assessor,,"REED, DOUGLAS",EAGLE
+549,549,Greenlee,10,2,8,0,IND,County Assessor,,"REED, DOUGLAS",BLUE
+550,550,Greenlee,194,48,135,11,IND,County Assessor,,"REED, DOUGLAS",CLIFTON 1
+551,551,Greenlee,146,27,113,6,IND,County Assessor,,"REED, DOUGLAS",CLIFTON 2
+552,552,Greenlee,317,103,188,26,IND,County Assessor,,"REED, DOUGLAS",MORENCI
+553,553,Greenlee,108,44,58,6,IND,County Assessor,,"REED, DOUGLAS",EAST PLANTSITE
+554,554,Greenlee,253,71,173,9,IND,County Assessor,,"REED, DOUGLAS",YORK/SHELDON
+555,555,Greenlee,290,89,192,9,IND,County Assessor,,"REED, DOUGLAS",DUNCAN
+556,556,Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,EAGLE
+557,557,Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,BLUE
+558,558,Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,CLIFTON 1
+559,559,Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,CLIFTON 2
+560,560,Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,MORENCI
+561,561,Greenlee,2,1,1,0,NON,County Assessor,,WRITE-IN,EAST PLANTSITE
+562,562,Greenlee,1,0,0,1,NON,County Assessor,,WRITE-IN,YORK/SHELDON
+563,563,Greenlee,2,1,0,1,NON,County Assessor,,WRITE-IN,DUNCAN
+564,564,Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,EAGLE
+565,565,Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,BLUE
+566,566,Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,CLIFTON 1
+567,567,Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,CLIFTON 2
+568,568,Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,MORENCI
+569,569,Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,EAST PLANTSITE
+570,570,Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,YORK/SHELDON
+571,571,Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,DUNCAN
+572,572,Greenlee,3,0,3,0,,County Assessor,,UNDER VOTES,EAGLE
+573,573,Greenlee,2,0,2,0,,County Assessor,,UNDER VOTES,BLUE
+574,574,Greenlee,21,3,18,0,,County Assessor,,UNDER VOTES,CLIFTON 1
+575,575,Greenlee,11,4,7,0,,County Assessor,,UNDER VOTES,CLIFTON 2
+576,576,Greenlee,53,9,40,4,,County Assessor,,UNDER VOTES,MORENCI
+577,577,Greenlee,21,6,15,0,,County Assessor,,UNDER VOTES,EAST PLANTSITE
+578,578,Greenlee,10,2,6,2,,County Assessor,,UNDER VOTES,YORK/SHELDON
+579,579,Greenlee,28,3,24,1,,County Assessor,,UNDER VOTES,DUNCAN
+580,580,Greenlee,10,1,9,0,NON,Justice Supreme Court-TIMMER,,YES,EAGLE
+581,581,Greenlee,17,7,10,0,NON,Justice Supreme Court-TIMMER,,YES,BLUE
+582,582,Greenlee,418,89,314,15,NON,Justice Supreme Court-TIMMER,,YES,CLIFTON 1
+583,583,Greenlee,285,67,209,9,NON,Justice Supreme Court-TIMMER,,YES,CLIFTON 2
+584,584,Greenlee,538,212,289,37,NON,Justice Supreme Court-TIMMER,,YES,MORENCI
+585,585,Greenlee,165,70,84,11,NON,Justice Supreme Court-TIMMER,,YES,EAST PLANTSITE
+586,586,Greenlee,343,105,223,15,NON,Justice Supreme Court-TIMMER,,YES,YORK/SHELDON
+587,587,Greenlee,457,146,293,18,NON,Justice Supreme Court-TIMMER,,YES,DUNCAN
+588,588,Greenlee,3,0,3,0,NON,Justice Supreme Court-TIMMER,,NO,EAGLE
+589,589,Greenlee,4,1,3,0,NON,Justice Supreme Court-TIMMER,,NO,BLUE
+590,590,Greenlee,93,32,56,5,NON,Justice Supreme Court-TIMMER,,NO,CLIFTON 1
+591,591,Greenlee,57,15,40,2,NON,Justice Supreme Court-TIMMER,,NO,CLIFTON 2
+592,592,Greenlee,131,42,73,16,NON,Justice Supreme Court-TIMMER,,NO,MORENCI
+593,593,Greenlee,40,15,21,4,NON,Justice Supreme Court-TIMMER,,NO,EAST PLANTSITE
+594,594,Greenlee,68,22,45,1,NON,Justice Supreme Court-TIMMER,,NO,YORK/SHELDON
+595,595,Greenlee,128,36,85,7,NON,Justice Supreme Court-TIMMER,,NO,DUNCAN
+596,596,Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,EAGLE
+597,597,Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,BLUE
+598,598,Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,CLIFTON 1
+599,599,Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,CLIFTON 2
+600,600,Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,MORENCI
+601,601,Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,EAST PLANTSITE
+602,602,Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,YORK/SHELDON
+603,603,Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,DUNCAN
+604,604,Greenlee,3,0,3,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,EAGLE
+605,605,Greenlee,8,4,4,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,BLUE
+606,606,Greenlee,115,8,106,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,CLIFTON 1
+607,607,Greenlee,85,10,75,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,CLIFTON 2
+608,608,Greenlee,114,8,104,2,,Justice Supreme Court-TIMMER,,UNDER VOTES,MORENCI
+609,609,Greenlee,31,3,28,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,EAST PLANTSITE
+610,610,Greenlee,136,15,119,2,,Justice Supreme Court-TIMMER,,UNDER VOTES,YORK/SHELDON
+611,611,Greenlee,127,10,114,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,DUNCAN
+612,612,Greenlee,214,47,157,10,NON,QUESTION DUNCAN USD DIST. NO. 2,,"BUDGET OVERRIDE CONTINUATION, YES",YORK/SHELDON
+613,613,Greenlee,394,125,249,20,NON,QUESTION DUNCAN USD DIST. NO. 2,,"BUDGET OVERRIDE CONTINUATION, YES",DUNCAN
+614,614,Greenlee,260,84,169,7,NON,QUESTION DUNCAN USD DIST. NO. 2,,"BUDGET OVERRIDE CONTINUATION, NO",YORK/SHELDON
+615,615,Greenlee,254,65,182,7,NON,QUESTION DUNCAN USD DIST. NO. 2,,"BUDGET OVERRIDE CONTINUATION, NO",DUNCAN
+616,616,Greenlee,0,0,0,0,,QUESTION DUNCAN USD DIST. NO. 2,,OVER VOTES,YORK/SHELDON
+617,617,Greenlee,0,0,0,0,,QUESTION DUNCAN USD DIST. NO. 2,,OVER VOTES,DUNCAN
+618,618,Greenlee,68,11,56,1,,QUESTION DUNCAN USD DIST. NO. 2,,UNDER VOTES,YORK/SHELDON
+619,619,Greenlee,64,2,61,1,,QUESTION DUNCAN USD DIST. NO. 2,,UNDER VOTES,DUNCAN
+620,620,Greenlee,6,0,6,0,NON,PROPOSITION 205,,YES,EAGLE
+621,621,Greenlee,11,4,7,0,NON,PROPOSITION 205,,YES,BLUE
+622,622,Greenlee,327,81,229,17,NON,PROPOSITION 205,,YES,CLIFTON 1
+623,623,Greenlee,164,46,112,6,NON,PROPOSITION 205,,YES,CLIFTON 2
+624,624,Greenlee,412,134,244,34,NON,PROPOSITION 205,,YES,MORENCI
+625,625,Greenlee,130,53,65,12,NON,PROPOSITION 205,,YES,EAST PLANTSITE
+626,626,Greenlee,225,70,145,10,NON,PROPOSITION 205,,YES,YORK/SHELDON
+627,627,Greenlee,268,74,180,14,NON,PROPOSITION 205,,YES,DUNCAN
+628,628,Greenlee,9,1,8,0,NON,PROPOSITION 205,,NO,EAGLE
+629,629,Greenlee,15,7,8,0,NON,PROPOSITION 205,,NO,BLUE
+630,630,Greenlee,251,47,200,4,NON,PROPOSITION 205,,NO,CLIFTON 1
+631,631,Greenlee,235,46,184,5,NON,PROPOSITION 205,,NO,CLIFTON 2
+632,632,Greenlee,325,127,178,20,NON,PROPOSITION 205,,NO,MORENCI
+633,633,Greenlee,92,35,54,3,NON,PROPOSITION 205,,NO,EAST PLANTSITE
+634,634,Greenlee,295,70,217,8,NON,PROPOSITION 205,,NO,YORK/SHELDON
+635,635,Greenlee,408,114,280,14,NON,PROPOSITION 205,,NO,DUNCAN
+636,636,Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,EAGLE
+637,637,Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,BLUE
+638,638,Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,CLIFTON 1
+639,639,Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,CLIFTON 2
+640,640,Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,MORENCI
+641,641,Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,EAST PLANTSITE
+642,642,Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,YORK/SHELDON
+643,643,Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,DUNCAN
+644,644,Greenlee,1,0,1,0,,PROPOSITION 205,,UNDER VOTES,EAGLE
+645,645,Greenlee,3,1,2,0,,PROPOSITION 205,,UNDER VOTES,BLUE
+646,646,Greenlee,48,1,47,0,,PROPOSITION 205,,UNDER VOTES,CLIFTON 1
+647,647,Greenlee,28,0,28,0,,PROPOSITION 205,,UNDER VOTES,CLIFTON 2
+648,648,Greenlee,46,1,44,1,,PROPOSITION 205,,UNDER VOTES,MORENCI
+649,649,Greenlee,14,0,14,0,,PROPOSITION 205,,UNDER VOTES,EAST PLANTSITE
+650,650,Greenlee,27,2,25,0,,PROPOSITION 205,,UNDER VOTES,YORK/SHELDON
+651,651,Greenlee,36,4,32,0,,PROPOSITION 205,,UNDER VOTES,DUNCAN
+652,652,Greenlee,4,1,3,0,NON,PROPOSITION 206,,YES,EAGLE
+653,653,Greenlee,5,2,3,0,NON,PROPOSITION 206,,YES,BLUE
+654,654,Greenlee,438,92,333,13,NON,PROPOSITION 206,,YES,CLIFTON 1
+655,655,Greenlee,260,53,199,8,NON,PROPOSITION 206,,YES,CLIFTON 2
+656,656,Greenlee,421,142,248,31,NON,PROPOSITION 206,,YES,MORENCI
+657,657,Greenlee,121,48,62,11,NON,PROPOSITION 206,,YES,EAST PLANTSITE
+658,658,Greenlee,280,65,207,8,NON,PROPOSITION 206,,YES,YORK/SHELDON
+659,659,Greenlee,324,80,229,15,NON,PROPOSITION 206,,YES,DUNCAN
+660,660,Greenlee,11,0,11,0,NON,PROPOSITION 206,,NO,EAGLE
+661,661,Greenlee,21,9,12,0,NON,PROPOSITION 206,,NO,BLUE
+662,662,Greenlee,135,34,94,7,NON,PROPOSITION 206,,NO,CLIFTON 1
+663,663,Greenlee,136,37,96,3,NON,PROPOSITION 206,,NO,CLIFTON 2
+664,664,Greenlee,314,119,173,22,NON,PROPOSITION 206,,NO,MORENCI
+665,665,Greenlee,99,40,55,4,NON,PROPOSITION 206,,NO,EAST PLANTSITE
+666,666,Greenlee,237,74,153,10,NON,PROPOSITION 206,,NO,YORK/SHELDON
+667,667,Greenlee,350,110,227,13,NON,PROPOSITION 206,,NO,DUNCAN
+668,668,Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,EAGLE
+669,669,Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,BLUE
+670,670,Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,CLIFTON 1
+671,671,Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,CLIFTON 2
+672,672,Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,MORENCI
+673,673,Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,EAST PLANTSITE
+674,674,Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,YORK/SHELDON
+675,675,Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,DUNCAN
+676,676,Greenlee,1,0,1,0,,PROPOSITION 206,,UNDER VOTES,EAGLE
+677,677,Greenlee,3,1,2,0,,PROPOSITION 206,,UNDER VOTES,BLUE
+678,678,Greenlee,53,3,49,1,,PROPOSITION 206,,UNDER VOTES,CLIFTON 1
+679,679,Greenlee,31,2,29,0,,PROPOSITION 206,,UNDER VOTES,CLIFTON 2
+680,680,Greenlee,48,1,45,2,,PROPOSITION 206,,UNDER VOTES,MORENCI
+681,681,Greenlee,16,0,16,0,,PROPOSITION 206,,UNDER VOTES,EAST PLANTSITE
+682,682,Greenlee,30,3,27,0,,PROPOSITION 206,,UNDER VOTES,YORK/SHELDON
+683,683,Greenlee,38,2,36,0,,PROPOSITION 206,,UNDER VOTES,DUNCAN
