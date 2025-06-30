@@ -1,0 +1,80 @@
+
+---
+title: "MA_VT"
+author: "Huy"
+date: "2025-06-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r}
+MA <- read.csv("C:\\Huy Phan\\College\\VoterTurnout\\Exploratory_DA\\ready_data\\OH.csv")
+VT <- read.csv("C:\\Huy Phan\\College\\VoterTurnout\\Exploratory_DA\\ready_data\\WA.csv")
+```
+
+
+```{r}
+df1 <- MA %>%
+  mutate(
+    primary_margin = abs(dem_primary_total - rep_primary_total) / (dem_primary_total + rep_primary_total),
+    general_margin = (dem_general_total + rep_general_total - dem_primary_total - rep_primary_total) / 
+                     (dem_general_total + rep_general_total)
+  )
+
+# Remove invalid or extreme values if needed
+df1 <- df1 %>%
+  filter(primary_margin <= 1, general_margin <= 1, general_margin >= 0)
+
+# Plot
+ggplot(df1, aes(x = primary_margin, y = general_margin)) +
+  geom_point(alpha = 0.3) +
+  geom_smooth(method = "loess", se = FALSE, color = "red", linetype = "dashed", linewidth = 1) +
+  scale_x_continuous(labels = scales::percent_format(accuracy = 1)) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  labs(
+    x = "Primary Margin (Competitiveness)",
+    y = "Non-Primary Share of General Turnout",
+    title = "Non-Primary Voter Share of General Turnout of MA",
+  ) +
+  theme_minimal()
+
+
+```
+
+
+```{r}
+df2 <- VT %>%
+  mutate(
+    primary_margin = abs(dem_primary_total - rep_primary_total) / (dem_primary_total + rep_primary_total),
+    general_margin = (dem_general_total + rep_general_total - dem_primary_total - rep_primary_total) / 
+                     (dem_general_total + rep_general_total)
+  )
+
+# Remove invalid or extreme values if needed
+df2 <- df2 %>%
+  filter(primary_margin <= 1, general_margin <= 1, general_margin >= 0)
+
+# Plot
+ggplot(df2, aes(x = primary_margin, y = general_margin)) +
+  geom_point(alpha = 0.4) +
+  geom_smooth(method = "loess", se = FALSE, color = "blue", linewidth = 1) +
+  scale_x_continuous(labels = scales::percent_format(accuracy = 1)) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  labs(
+    x = "Primary Margin (Competitiveness)",
+    y = "Non-Primary Share of General Turnout",
+    title = "Precinct-Level: Primary Competitiveness vs. General Turnout for VT",
+    subtitle = "More non-primary voters show up when primaries are close?"
+  ) +
+  theme_minimal()
+```
+```
+
+
+
+
