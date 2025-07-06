@@ -1,0 +1,433 @@
+contest,precinct,contest_id,office,choice,candidate,vote,county
+651,051 PARKER,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+651,051 PARKER,999999,Race Statistics,999998,Number of Precincts Reporting,1,LA PAZ
+651,051 PARKER,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+651,051 PARKER,10,President - Dem,999998,Number of Precincts Reporting,1,LA PAZ
+651,051 PARKER,10,President - Dem,999997,Registered Voters,973,LA PAZ
+651,051 PARKER,10,President - Dem,999996,Times Counted,295,LA PAZ
+651,051 PARKER,10,President - Dem,10,"De La Fuente, Roque",5,LA PAZ
+651,051 PARKER,10,President - Dem,20,"Steinberg, Michael",3,LA PAZ
+651,051 PARKER,10,President - Dem,30,"Sanders, Bernie",146,LA PAZ
+651,051 PARKER,10,President - Dem,40,"O'Malley, Martin J.",2,LA PAZ
+651,051 PARKER,10,President - Dem,50,"Clinton, Hillary",138,LA PAZ
+651,051 PARKER,10,President - Dem,60,"Hewes, Henry",1,LA PAZ
+651,051 PARKER,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+651,051 PARKER,20,President - Rep,999998,Number of Precincts Reporting,1,LA PAZ
+651,051 PARKER,20,President - Rep,999997,Registered Voters,874,LA PAZ
+651,051 PARKER,20,President - Rep,999996,Times Counted,410,LA PAZ
+651,051 PARKER,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+651,051 PARKER,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+651,051 PARKER,20,President - Rep,30,"Paul, Rand",1,LA PAZ
+651,051 PARKER,20,President - Rep,40,"Rubio, Marco",20,LA PAZ
+651,051 PARKER,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+651,051 PARKER,20,President - Rep,60,"Kasich, John R.",31,LA PAZ
+651,051 PARKER,20,President - Rep,70,"Bush, Jeb",3,LA PAZ
+651,051 PARKER,20,President - Rep,80,"Trump, Donald J.",242,LA PAZ
+651,051 PARKER,20,President - Rep,90,"Fiorina, Carly",1,LA PAZ
+651,051 PARKER,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+651,051 PARKER,20,President - Rep,110,"Cruz, Ted",99,LA PAZ
+651,051 PARKER,20,President - Rep,120,"Huckabee, Mike",0,LA PAZ
+651,051 PARKER,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+651,051 PARKER,20,President - Rep,140,"Carson, Ben",12,LA PAZ
+651,051 PARKER,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+651,051 PARKER,30,President - Grn,999998,Number of Precincts Reporting,1,LA PAZ
+651,051 PARKER,30,President - Grn,999997,Registered Voters,2,LA PAZ
+651,051 PARKER,30,President - Grn,999996,Times Counted,2,LA PAZ
+651,051 PARKER,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+651,051 PARKER,30,President - Grn,20,"Stein, Jill",2,LA PAZ
+652,052 POSTON,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+652,052 POSTON,999999,Race Statistics,999998,Number of Precincts Reporting,1,LA PAZ
+652,052 POSTON,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+652,052 POSTON,10,President - Dem,999998,Number of Precincts Reporting,1,LA PAZ
+652,052 POSTON,10,President - Dem,999997,Registered Voters,191,LA PAZ
+652,052 POSTON,10,President - Dem,999996,Times Counted,56,LA PAZ
+652,052 POSTON,10,President - Dem,10,"De La Fuente, Roque",1,LA PAZ
+652,052 POSTON,10,President - Dem,20,"Steinberg, Michael",0,LA PAZ
+652,052 POSTON,10,President - Dem,30,"Sanders, Bernie",28,LA PAZ
+652,052 POSTON,10,President - Dem,40,"O'Malley, Martin J.",0,LA PAZ
+652,052 POSTON,10,President - Dem,50,"Clinton, Hillary",27,LA PAZ
+652,052 POSTON,10,President - Dem,60,"Hewes, Henry",0,LA PAZ
+652,052 POSTON,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+652,052 POSTON,20,President - Rep,999998,Number of Precincts Reporting,1,LA PAZ
+652,052 POSTON,20,President - Rep,999997,Registered Voters,70,LA PAZ
+652,052 POSTON,20,President - Rep,999996,Times Counted,26,LA PAZ
+652,052 POSTON,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+652,052 POSTON,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+652,052 POSTON,20,President - Rep,30,"Paul, Rand",0,LA PAZ
+652,052 POSTON,20,President - Rep,40,"Rubio, Marco",3,LA PAZ
+652,052 POSTON,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+652,052 POSTON,20,President - Rep,60,"Kasich, John R.",0,LA PAZ
+652,052 POSTON,20,President - Rep,70,"Bush, Jeb",0,LA PAZ
+652,052 POSTON,20,President - Rep,80,"Trump, Donald J.",10,LA PAZ
+652,052 POSTON,20,President - Rep,90,"Fiorina, Carly",0,LA PAZ
+652,052 POSTON,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+652,052 POSTON,20,President - Rep,110,"Cruz, Ted",12,LA PAZ
+652,052 POSTON,20,President - Rep,120,"Huckabee, Mike",0,LA PAZ
+652,052 POSTON,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+652,052 POSTON,20,President - Rep,140,"Carson, Ben",1,LA PAZ
+652,052 POSTON,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+652,052 POSTON,30,President - Grn,999998,Number of Precincts Reporting,1,LA PAZ
+652,052 POSTON,30,President - Grn,999997,Registered Voters,0,LA PAZ
+652,052 POSTON,30,President - Grn,999996,Times Counted,0,LA PAZ
+652,052 POSTON,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+652,052 POSTON,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+654,054 UPRIVER,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+654,054 UPRIVER,999999,Race Statistics,999998,Number of Precincts Reporting,1,LA PAZ
+654,054 UPRIVER,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+654,054 UPRIVER,10,President - Dem,999998,Number of Precincts Reporting,1,LA PAZ
+654,054 UPRIVER,10,President - Dem,999997,Registered Voters,319,LA PAZ
+654,054 UPRIVER,10,President - Dem,999996,Times Counted,100,LA PAZ
+654,054 UPRIVER,10,President - Dem,10,"De La Fuente, Roque",1,LA PAZ
+654,054 UPRIVER,10,President - Dem,20,"Steinberg, Michael",1,LA PAZ
+654,054 UPRIVER,10,President - Dem,30,"Sanders, Bernie",39,LA PAZ
+654,054 UPRIVER,10,President - Dem,40,"O'Malley, Martin J.",2,LA PAZ
+654,054 UPRIVER,10,President - Dem,50,"Clinton, Hillary",52,LA PAZ
+654,054 UPRIVER,10,President - Dem,60,"Hewes, Henry",3,LA PAZ
+654,054 UPRIVER,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+654,054 UPRIVER,20,President - Rep,999998,Number of Precincts Reporting,1,LA PAZ
+654,054 UPRIVER,20,President - Rep,999997,Registered Voters,815,LA PAZ
+654,054 UPRIVER,20,President - Rep,999996,Times Counted,415,LA PAZ
+654,054 UPRIVER,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+654,054 UPRIVER,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+654,054 UPRIVER,20,President - Rep,30,"Paul, Rand",0,LA PAZ
+654,054 UPRIVER,20,President - Rep,40,"Rubio, Marco",34,LA PAZ
+654,054 UPRIVER,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+654,054 UPRIVER,20,President - Rep,60,"Kasich, John R.",21,LA PAZ
+654,054 UPRIVER,20,President - Rep,70,"Bush, Jeb",1,LA PAZ
+654,054 UPRIVER,20,President - Rep,80,"Trump, Donald J.",306,LA PAZ
+654,054 UPRIVER,20,President - Rep,90,"Fiorina, Carly",1,LA PAZ
+654,054 UPRIVER,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+654,054 UPRIVER,20,President - Rep,110,"Cruz, Ted",45,LA PAZ
+654,054 UPRIVER,20,President - Rep,120,"Huckabee, Mike",2,LA PAZ
+654,054 UPRIVER,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+654,054 UPRIVER,20,President - Rep,140,"Carson, Ben",4,LA PAZ
+654,054 UPRIVER,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+654,054 UPRIVER,30,President - Grn,999998,Number of Precincts Reporting,1,LA PAZ
+654,054 UPRIVER,30,President - Grn,999997,Registered Voters,2,LA PAZ
+654,054 UPRIVER,30,President - Grn,999996,Times Counted,0,LA PAZ
+654,054 UPRIVER,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+654,054 UPRIVER,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+655,055 BOUSE,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+655,055 BOUSE,999999,Race Statistics,999998,Number of Precincts Reporting,1,LA PAZ
+655,055 BOUSE,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+655,055 BOUSE,10,President - Dem,999998,Number of Precincts Reporting,1,LA PAZ
+655,055 BOUSE,10,President - Dem,999997,Registered Voters,91,LA PAZ
+655,055 BOUSE,10,President - Dem,999996,Times Counted,38,LA PAZ
+655,055 BOUSE,10,President - Dem,10,"De La Fuente, Roque",0,LA PAZ
+655,055 BOUSE,10,President - Dem,20,"Steinberg, Michael",0,LA PAZ
+655,055 BOUSE,10,President - Dem,30,"Sanders, Bernie",11,LA PAZ
+655,055 BOUSE,10,President - Dem,40,"O'Malley, Martin J.",0,LA PAZ
+655,055 BOUSE,10,President - Dem,50,"Clinton, Hillary",23,LA PAZ
+655,055 BOUSE,10,President - Dem,60,"Hewes, Henry",2,LA PAZ
+655,055 BOUSE,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+655,055 BOUSE,20,President - Rep,999998,Number of Precincts Reporting,1,LA PAZ
+655,055 BOUSE,20,President - Rep,999997,Registered Voters,212,LA PAZ
+655,055 BOUSE,20,President - Rep,999996,Times Counted,131,LA PAZ
+655,055 BOUSE,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+655,055 BOUSE,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+655,055 BOUSE,20,President - Rep,30,"Paul, Rand",0,LA PAZ
+655,055 BOUSE,20,President - Rep,40,"Rubio, Marco",4,LA PAZ
+655,055 BOUSE,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+655,055 BOUSE,20,President - Rep,60,"Kasich, John R.",5,LA PAZ
+655,055 BOUSE,20,President - Rep,70,"Bush, Jeb",0,LA PAZ
+655,055 BOUSE,20,President - Rep,80,"Trump, Donald J.",94,LA PAZ
+655,055 BOUSE,20,President - Rep,90,"Fiorina, Carly",1,LA PAZ
+655,055 BOUSE,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+655,055 BOUSE,20,President - Rep,110,"Cruz, Ted",24,LA PAZ
+655,055 BOUSE,20,President - Rep,120,"Huckabee, Mike",1,LA PAZ
+655,055 BOUSE,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+655,055 BOUSE,20,President - Rep,140,"Carson, Ben",2,LA PAZ
+655,055 BOUSE,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+655,055 BOUSE,30,President - Grn,999998,Number of Precincts Reporting,1,LA PAZ
+655,055 BOUSE,30,President - Grn,999997,Registered Voters,0,LA PAZ
+655,055 BOUSE,30,President - Grn,999996,Times Counted,0,LA PAZ
+655,055 BOUSE,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+655,055 BOUSE,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+656,056 WENDEN,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+656,056 WENDEN,999999,Race Statistics,999998,Number of Precincts Reporting,0,LA PAZ
+656,056 WENDEN,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+656,056 WENDEN,10,President - Dem,999998,Number of Precincts Reporting,0,LA PAZ
+656,056 WENDEN,10,President - Dem,999997,Registered Voters,44,LA PAZ
+656,056 WENDEN,10,President - Dem,999996,Times Counted,13,LA PAZ
+656,056 WENDEN,10,President - Dem,10,"De La Fuente, Roque",0,LA PAZ
+656,056 WENDEN,10,President - Dem,20,"Steinberg, Michael",0,LA PAZ
+656,056 WENDEN,10,President - Dem,30,"Sanders, Bernie",2,LA PAZ
+656,056 WENDEN,10,President - Dem,40,"O'Malley, Martin J.",0,LA PAZ
+656,056 WENDEN,10,President - Dem,50,"Clinton, Hillary",10,LA PAZ
+656,056 WENDEN,10,President - Dem,60,"Hewes, Henry",1,LA PAZ
+656,056 WENDEN,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+656,056 WENDEN,20,President - Rep,999998,Number of Precincts Reporting,0,LA PAZ
+656,056 WENDEN,20,President - Rep,999997,Registered Voters,63,LA PAZ
+656,056 WENDEN,20,President - Rep,999996,Times Counted,29,LA PAZ
+656,056 WENDEN,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+656,056 WENDEN,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+656,056 WENDEN,20,President - Rep,30,"Paul, Rand",0,LA PAZ
+656,056 WENDEN,20,President - Rep,40,"Rubio, Marco",2,LA PAZ
+656,056 WENDEN,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+656,056 WENDEN,20,President - Rep,60,"Kasich, John R.",2,LA PAZ
+656,056 WENDEN,20,President - Rep,70,"Bush, Jeb",0,LA PAZ
+656,056 WENDEN,20,President - Rep,80,"Trump, Donald J.",10,LA PAZ
+656,056 WENDEN,20,President - Rep,90,"Fiorina, Carly",0,LA PAZ
+656,056 WENDEN,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+656,056 WENDEN,20,President - Rep,110,"Cruz, Ted",13,LA PAZ
+656,056 WENDEN,20,President - Rep,120,"Huckabee, Mike",0,LA PAZ
+656,056 WENDEN,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+656,056 WENDEN,20,President - Rep,140,"Carson, Ben",2,LA PAZ
+656,056 WENDEN,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+656,056 WENDEN,30,President - Grn,999998,Number of Precincts Reporting,0,LA PAZ
+656,056 WENDEN,30,President - Grn,999997,Registered Voters,1,LA PAZ
+656,056 WENDEN,30,President - Grn,999996,Times Counted,0,LA PAZ
+656,056 WENDEN,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+656,056 WENDEN,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+657,057 SALOME,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+657,057 SALOME,999999,Race Statistics,999998,Number of Precincts Reporting,1,LA PAZ
+657,057 SALOME,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+657,057 SALOME,10,President - Dem,999998,Number of Precincts Reporting,1,LA PAZ
+657,057 SALOME,10,President - Dem,999997,Registered Voters,129,LA PAZ
+657,057 SALOME,10,President - Dem,999996,Times Counted,52,LA PAZ
+657,057 SALOME,10,President - Dem,10,"De La Fuente, Roque",0,LA PAZ
+657,057 SALOME,10,President - Dem,20,"Steinberg, Michael",1,LA PAZ
+657,057 SALOME,10,President - Dem,30,"Sanders, Bernie",21,LA PAZ
+657,057 SALOME,10,President - Dem,40,"O'Malley, Martin J.",0,LA PAZ
+657,057 SALOME,10,President - Dem,50,"Clinton, Hillary",29,LA PAZ
+657,057 SALOME,10,President - Dem,60,"Hewes, Henry",1,LA PAZ
+657,057 SALOME,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+657,057 SALOME,20,President - Rep,999998,Number of Precincts Reporting,1,LA PAZ
+657,057 SALOME,20,President - Rep,999997,Registered Voters,377,LA PAZ
+657,057 SALOME,20,President - Rep,999996,Times Counted,223,LA PAZ
+657,057 SALOME,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+657,057 SALOME,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+657,057 SALOME,20,President - Rep,30,"Paul, Rand",1,LA PAZ
+657,057 SALOME,20,President - Rep,40,"Rubio, Marco",8,LA PAZ
+657,057 SALOME,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+657,057 SALOME,20,President - Rep,60,"Kasich, John R.",12,LA PAZ
+657,057 SALOME,20,President - Rep,70,"Bush, Jeb",0,LA PAZ
+657,057 SALOME,20,President - Rep,80,"Trump, Donald J.",151,LA PAZ
+657,057 SALOME,20,President - Rep,90,"Fiorina, Carly",0,LA PAZ
+657,057 SALOME,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+657,057 SALOME,20,President - Rep,110,"Cruz, Ted",44,LA PAZ
+657,057 SALOME,20,President - Rep,120,"Huckabee, Mike",1,LA PAZ
+657,057 SALOME,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+657,057 SALOME,20,President - Rep,140,"Carson, Ben",6,LA PAZ
+657,057 SALOME,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+657,057 SALOME,30,President - Grn,999998,Number of Precincts Reporting,1,LA PAZ
+657,057 SALOME,30,President - Grn,999997,Registered Voters,1,LA PAZ
+657,057 SALOME,30,President - Grn,999996,Times Counted,0,LA PAZ
+657,057 SALOME,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+657,057 SALOME,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+658,058 QUARTZSITE 2,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+658,058 QUARTZSITE 2,999999,Race Statistics,999998,Number of Precincts Reporting,1,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,999998,Number of Precincts Reporting,1,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,999997,Registered Voters,193,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,999996,Times Counted,89,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,10,"De La Fuente, Roque",2,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,20,"Steinberg, Michael",1,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,30,"Sanders, Bernie",38,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,40,"O'Malley, Martin J.",2,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,50,"Clinton, Hillary",43,LA PAZ
+658,058 QUARTZSITE 2,10,President - Dem,60,"Hewes, Henry",0,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,999998,Number of Precincts Reporting,1,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,999997,Registered Voters,402,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,999996,Times Counted,243,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,30,"Paul, Rand",2,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,40,"Rubio, Marco",9,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,60,"Kasich, John R.",9,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,70,"Bush, Jeb",3,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,80,"Trump, Donald J.",163,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,90,"Fiorina, Carly",2,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,110,"Cruz, Ted",39,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,120,"Huckabee, Mike",2,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+658,058 QUARTZSITE 2,20,President - Rep,140,"Carson, Ben",14,LA PAZ
+658,058 QUARTZSITE 2,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+658,058 QUARTZSITE 2,30,President - Grn,999998,Number of Precincts Reporting,1,LA PAZ
+658,058 QUARTZSITE 2,30,President - Grn,999997,Registered Voters,3,LA PAZ
+658,058 QUARTZSITE 2,30,President - Grn,999996,Times Counted,0,LA PAZ
+658,058 QUARTZSITE 2,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+658,058 QUARTZSITE 2,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+659,059 CIBOLA,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+659,059 CIBOLA,999999,Race Statistics,999998,Number of Precincts Reporting,0,LA PAZ
+659,059 CIBOLA,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+659,059 CIBOLA,10,President - Dem,999998,Number of Precincts Reporting,0,LA PAZ
+659,059 CIBOLA,10,President - Dem,999997,Registered Voters,24,LA PAZ
+659,059 CIBOLA,10,President - Dem,999996,Times Counted,8,LA PAZ
+659,059 CIBOLA,10,President - Dem,10,"De La Fuente, Roque",0,LA PAZ
+659,059 CIBOLA,10,President - Dem,20,"Steinberg, Michael",0,LA PAZ
+659,059 CIBOLA,10,President - Dem,30,"Sanders, Bernie",3,LA PAZ
+659,059 CIBOLA,10,President - Dem,40,"O'Malley, Martin J.",0,LA PAZ
+659,059 CIBOLA,10,President - Dem,50,"Clinton, Hillary",5,LA PAZ
+659,059 CIBOLA,10,President - Dem,60,"Hewes, Henry",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+659,059 CIBOLA,20,President - Rep,999998,Number of Precincts Reporting,0,LA PAZ
+659,059 CIBOLA,20,President - Rep,999997,Registered Voters,61,LA PAZ
+659,059 CIBOLA,20,President - Rep,999996,Times Counted,34,LA PAZ
+659,059 CIBOLA,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,30,"Paul, Rand",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,40,"Rubio, Marco",2,LA PAZ
+659,059 CIBOLA,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,60,"Kasich, John R.",1,LA PAZ
+659,059 CIBOLA,20,President - Rep,70,"Bush, Jeb",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,80,"Trump, Donald J.",27,LA PAZ
+659,059 CIBOLA,20,President - Rep,90,"Fiorina, Carly",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,110,"Cruz, Ted",4,LA PAZ
+659,059 CIBOLA,20,President - Rep,120,"Huckabee, Mike",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+659,059 CIBOLA,20,President - Rep,140,"Carson, Ben",0,LA PAZ
+659,059 CIBOLA,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+659,059 CIBOLA,30,President - Grn,999998,Number of Precincts Reporting,0,LA PAZ
+659,059 CIBOLA,30,President - Grn,999997,Registered Voters,0,LA PAZ
+659,059 CIBOLA,30,President - Grn,999996,Times Counted,0,LA PAZ
+659,059 CIBOLA,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+659,059 CIBOLA,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+660,060 EHRENBERG,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+660,060 EHRENBERG,999999,Race Statistics,999998,Number of Precincts Reporting,1,LA PAZ
+660,060 EHRENBERG,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+660,060 EHRENBERG,10,President - Dem,999998,Number of Precincts Reporting,1,LA PAZ
+660,060 EHRENBERG,10,President - Dem,999997,Registered Voters,115,LA PAZ
+660,060 EHRENBERG,10,President - Dem,999996,Times Counted,26,LA PAZ
+660,060 EHRENBERG,10,President - Dem,10,"De La Fuente, Roque",1,LA PAZ
+660,060 EHRENBERG,10,President - Dem,20,"Steinberg, Michael",0,LA PAZ
+660,060 EHRENBERG,10,President - Dem,30,"Sanders, Bernie",8,LA PAZ
+660,060 EHRENBERG,10,President - Dem,40,"O'Malley, Martin J.",0,LA PAZ
+660,060 EHRENBERG,10,President - Dem,50,"Clinton, Hillary",17,LA PAZ
+660,060 EHRENBERG,10,President - Dem,60,"Hewes, Henry",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+660,060 EHRENBERG,20,President - Rep,999998,Number of Precincts Reporting,1,LA PAZ
+660,060 EHRENBERG,20,President - Rep,999997,Registered Voters,179,LA PAZ
+660,060 EHRENBERG,20,President - Rep,999996,Times Counted,74,LA PAZ
+660,060 EHRENBERG,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,30,"Paul, Rand",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,40,"Rubio, Marco",2,LA PAZ
+660,060 EHRENBERG,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,60,"Kasich, John R.",3,LA PAZ
+660,060 EHRENBERG,20,President - Rep,70,"Bush, Jeb",1,LA PAZ
+660,060 EHRENBERG,20,President - Rep,80,"Trump, Donald J.",47,LA PAZ
+660,060 EHRENBERG,20,President - Rep,90,"Fiorina, Carly",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,110,"Cruz, Ted",20,LA PAZ
+660,060 EHRENBERG,20,President - Rep,120,"Huckabee, Mike",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+660,060 EHRENBERG,20,President - Rep,140,"Carson, Ben",1,LA PAZ
+660,060 EHRENBERG,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+660,060 EHRENBERG,30,President - Grn,999998,Number of Precincts Reporting,1,LA PAZ
+660,060 EHRENBERG,30,President - Grn,999997,Registered Voters,0,LA PAZ
+660,060 EHRENBERG,30,President - Grn,999996,Times Counted,0,LA PAZ
+660,060 EHRENBERG,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+660,060 EHRENBERG,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+662,062 VICKSBURG,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+662,062 VICKSBURG,999999,Race Statistics,999998,Number of Precincts Reporting,0,LA PAZ
+662,062 VICKSBURG,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+662,062 VICKSBURG,10,President - Dem,999998,Number of Precincts Reporting,0,LA PAZ
+662,062 VICKSBURG,10,President - Dem,999997,Registered Voters,40,LA PAZ
+662,062 VICKSBURG,10,President - Dem,999996,Times Counted,20,LA PAZ
+662,062 VICKSBURG,10,President - Dem,10,"De La Fuente, Roque",0,LA PAZ
+662,062 VICKSBURG,10,President - Dem,20,"Steinberg, Michael",0,LA PAZ
+662,062 VICKSBURG,10,President - Dem,30,"Sanders, Bernie",13,LA PAZ
+662,062 VICKSBURG,10,President - Dem,40,"O'Malley, Martin J.",0,LA PAZ
+662,062 VICKSBURG,10,President - Dem,50,"Clinton, Hillary",7,LA PAZ
+662,062 VICKSBURG,10,President - Dem,60,"Hewes, Henry",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+662,062 VICKSBURG,20,President - Rep,999998,Number of Precincts Reporting,0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,999997,Registered Voters,106,LA PAZ
+662,062 VICKSBURG,20,President - Rep,999996,Times Counted,68,LA PAZ
+662,062 VICKSBURG,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,30,"Paul, Rand",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,40,"Rubio, Marco",1,LA PAZ
+662,062 VICKSBURG,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,60,"Kasich, John R.",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,70,"Bush, Jeb",2,LA PAZ
+662,062 VICKSBURG,20,President - Rep,80,"Trump, Donald J.",40,LA PAZ
+662,062 VICKSBURG,20,President - Rep,90,"Fiorina, Carly",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,110,"Cruz, Ted",20,LA PAZ
+662,062 VICKSBURG,20,President - Rep,120,"Huckabee, Mike",1,LA PAZ
+662,062 VICKSBURG,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+662,062 VICKSBURG,20,President - Rep,140,"Carson, Ben",4,LA PAZ
+662,062 VICKSBURG,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+662,062 VICKSBURG,30,President - Grn,999998,Number of Precincts Reporting,0,LA PAZ
+662,062 VICKSBURG,30,President - Grn,999997,Registered Voters,0,LA PAZ
+662,062 VICKSBURG,30,President - Grn,999996,Times Counted,0,LA PAZ
+662,062 VICKSBURG,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+662,062 VICKSBURG,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+664,064 QUARTZSITE 3,999999,Race Statistics,999999,Number of Precincts,1,LA PAZ
+664,064 QUARTZSITE 3,999999,Race Statistics,999998,Number of Precincts Reporting,1,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,999999,Number of Precincts for Race,1,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,999998,Number of Precincts Reporting,1,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,999997,Registered Voters,86,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,999996,Times Counted,41,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,10,"De La Fuente, Roque",0,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,20,"Steinberg, Michael",0,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,30,"Sanders, Bernie",15,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,40,"O'Malley, Martin J.",0,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,50,"Clinton, Hillary",24,LA PAZ
+664,064 QUARTZSITE 3,10,President - Dem,60,"Hewes, Henry",1,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,999999,Number of Precincts for Race,1,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,999998,Number of Precincts Reporting,1,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,999997,Registered Voters,218,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,999996,Times Counted,138,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,30,"Paul, Rand",2,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,40,"Rubio, Marco",8,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,60,"Kasich, John R.",4,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,70,"Bush, Jeb",0,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,80,"Trump, Donald J.",100,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,90,"Fiorina, Carly",0,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,110,"Cruz, Ted",22,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,120,"Huckabee, Mike",0,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+664,064 QUARTZSITE 3,20,President - Rep,140,"Carson, Ben",2,LA PAZ
+664,064 QUARTZSITE 3,30,President - Grn,999999,Number of Precincts for Race,1,LA PAZ
+664,064 QUARTZSITE 3,30,President - Grn,999998,Number of Precincts Reporting,1,LA PAZ
+664,064 QUARTZSITE 3,30,President - Grn,999997,Registered Voters,1,LA PAZ
+664,064 QUARTZSITE 3,30,President - Grn,999996,Times Counted,0,LA PAZ
+664,064 QUARTZSITE 3,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+664,064 QUARTZSITE 3,30,President - Grn,20,"Stein, Jill",0,LA PAZ
+999999,Election Total,999999,Race Statistics,999999,Number of Precincts,11,LA PAZ
+999999,Election Total,999999,Race Statistics,999998,Number of Precincts Reporting,8,LA PAZ
+999999,Election Total,10,President - Dem,999999,Number of Precincts for Race,11,LA PAZ
+999999,Election Total,10,President - Dem,999998,Number of Precincts Reporting,8,LA PAZ
+999999,Election Total,10,President - Dem,999997,Registered Voters,2205,LA PAZ
+999999,Election Total,10,President - Dem,999996,Times Counted,738,LA PAZ
+999999,Election Total,10,President - Dem,10,"De La Fuente, Roque",10,LA PAZ
+999999,Election Total,10,President - Dem,20,"Steinberg, Michael",6,LA PAZ
+999999,Election Total,10,President - Dem,30,"Sanders, Bernie",324,LA PAZ
+999999,Election Total,10,President - Dem,40,"O'Malley, Martin J.",6,LA PAZ
+999999,Election Total,10,President - Dem,50,"Clinton, Hillary",375,LA PAZ
+999999,Election Total,10,President - Dem,60,"Hewes, Henry",9,LA PAZ
+999999,Election Total,20,President - Rep,999999,Number of Precincts for Race,11,LA PAZ
+999999,Election Total,20,President - Rep,999998,Number of Precincts Reporting,8,LA PAZ
+999999,Election Total,20,President - Rep,999997,Registered Voters,3377,LA PAZ
+999999,Election Total,20,President - Rep,999996,Times Counted,1791,LA PAZ
+999999,Election Total,20,President - Rep,10,"Santorum, Rick",0,LA PAZ
+999999,Election Total,20,President - Rep,20,"Cook, Tim",0,LA PAZ
+999999,Election Total,20,President - Rep,30,"Paul, Rand",6,LA PAZ
+999999,Election Total,20,President - Rep,40,"Rubio, Marco",93,LA PAZ
+999999,Election Total,20,President - Rep,50,"Graham, Lindsey",0,LA PAZ
+999999,Election Total,20,President - Rep,60,"Kasich, John R.",88,LA PAZ
+999999,Election Total,20,President - Rep,70,"Bush, Jeb",10,LA PAZ
+999999,Election Total,20,President - Rep,80,"Trump, Donald J.",1190,LA PAZ
+999999,Election Total,20,President - Rep,90,"Fiorina, Carly",5,LA PAZ
+999999,Election Total,20,President - Rep,100,"Pataki, George E.",0,LA PAZ
+999999,Election Total,20,President - Rep,110,"Cruz, Ted",342,LA PAZ
+999999,Election Total,20,President - Rep,120,"Huckabee, Mike",7,LA PAZ
+999999,Election Total,20,President - Rep,130,"Christie, Chris",0,LA PAZ
+999999,Election Total,20,President - Rep,140,"Carson, Ben",48,LA PAZ
+999999,Election Total,30,President - Grn,999999,Number of Precincts for Race,11,LA PAZ
+999999,Election Total,30,President - Grn,999998,Number of Precincts Reporting,8,LA PAZ
+999999,Election Total,30,President - Grn,999997,Registered Voters,10,LA PAZ
+999999,Election Total,30,President - Grn,999996,Times Counted,2,LA PAZ
+999999,Election Total,30,President - Grn,10,"Mesplay, Kent",0,LA PAZ
+999999,Election Total,30,President - Grn,20,"Stein, Jill",2,LA PAZ

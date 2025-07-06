@@ -1,0 +1,143 @@
+Unnamed: 0,contest,precinct,contest_id,office,choice,candidate,vote,county
+0,10,1,999999,Race Statistics,999999,Number of Precincts,1,YUMA
+1,10,1,999999,Race Statistics,999998,Number of Precincts Reporting,1,YUMA
+2,10,1,10,President - Rep CD3,999999,Number of Precincts for Race,1,YUMA
+3,10,1,10,President - Rep CD3,999998,Number of Precincts Reporting,1,YUMA
+4,10,1,10,President - Rep CD3,999997,Registered Voters,9434,YUMA
+5,10,1,10,President - Rep CD3,999996,Times Counted,4618,YUMA
+6,10,1,10,President - Rep CD3,10,"Santorum, Rick",6,YUMA
+7,10,1,10,President - Rep CD3,20,"Cook, Tim",4,YUMA
+8,10,1,10,President - Rep CD3,30,"Paul, Rand",14,YUMA
+9,10,1,10,President - Rep CD3,40,"Rubio, Marco",505,YUMA
+10,10,1,10,President - Rep CD3,50,"Graham, Lindsey",5,YUMA
+11,10,1,10,President - Rep CD3,60,"Kasich, John R.",334,YUMA
+12,10,1,10,President - Rep CD3,70,"Bush, Jeb",54,YUMA
+13,10,1,10,President - Rep CD3,80,"Trump, Donald J.",1966,YUMA
+14,10,1,10,President - Rep CD3,90,"Fiorina, Carly",7,YUMA
+15,10,1,10,President - Rep CD3,100,"Pataki, George E.",1,YUMA
+16,10,1,10,President - Rep CD3,110,"Cruz, Ted",1555,YUMA
+17,10,1,10,President - Rep CD3,120,"Huckabee, Mike",14,YUMA
+18,10,1,10,President - Rep CD3,130,"Christie, Chris",8,YUMA
+19,10,1,10,President - Rep CD3,140,"Carson, Ben",130,YUMA
+20,10,1,20,President - Dem CD3,999999,Number of Precincts for Race,1,YUMA
+21,10,1,20,President - Dem CD3,999998,Number of Precincts Reporting,1,YUMA
+22,10,1,20,President - Dem CD3,999997,Registered Voters,17736,YUMA
+23,10,1,20,President - Dem CD3,999996,Times Counted,5948,YUMA
+24,10,1,20,President - Dem CD3,10,"De La Fuente, Roque",92,YUMA
+25,10,1,20,President - Dem CD3,20,"Steinberg, Michael",29,YUMA
+26,10,1,20,President - Dem CD3,30,"Sanders, Bernie",1908,YUMA
+27,10,1,20,President - Dem CD3,40,"O'Malley, Martin J.",58,YUMA
+28,10,1,20,President - Dem CD3,50,"Clinton, Hillary",3773,YUMA
+29,10,1,20,President - Dem CD3,60,"Hewes, Henry",48,YUMA
+30,10,1,30,President - Grn CD3,999999,Number of Precincts for Race,1,YUMA
+31,10,1,30,President - Grn CD3,999998,Number of Precincts Reporting,1,YUMA
+32,10,1,30,President - Grn CD3,999997,Registered Voters,19,YUMA
+33,10,1,30,President - Grn CD3,999996,Times Counted,1,YUMA
+34,10,1,30,President - Grn CD3,10,"Mesplay, Kent",1,YUMA
+35,10,1,30,President - Grn CD3,20,"Stein, Jill",0,YUMA
+36,20,2,999999,Race Statistics,999999,Number of Precincts,1,YUMA
+37,20,2,999999,Race Statistics,999998,Number of Precincts Reporting,1,YUMA
+38,20,2,40,President - Rep CD4,999999,Number of Precincts for Race,1,YUMA
+39,20,2,40,President - Rep CD4,999998,Number of Precincts Reporting,1,YUMA
+40,20,2,40,President - Rep CD4,999997,Registered Voters,11204,YUMA
+41,20,2,40,President - Rep CD4,999996,Times Counted,6757,YUMA
+42,20,2,40,President - Rep CD4,10,"Santorum, Rick",2,YUMA
+43,20,2,40,President - Rep CD4,20,"Cook, Tim",1,YUMA
+44,20,2,40,President - Rep CD4,30,"Paul, Rand",18,YUMA
+45,20,2,40,President - Rep CD4,40,"Rubio, Marco",540,YUMA
+46,20,2,40,President - Rep CD4,50,"Graham, Lindsey",2,YUMA
+47,20,2,40,President - Rep CD4,60,"Kasich, John R.",458,YUMA
+48,20,2,40,President - Rep CD4,70,"Bush, Jeb",32,YUMA
+49,20,2,40,President - Rep CD4,80,"Trump, Donald J.",3531,YUMA
+50,20,2,40,President - Rep CD4,90,"Fiorina, Carly",9,YUMA
+51,20,2,40,President - Rep CD4,100,"Pataki, George E.",2,YUMA
+52,20,2,40,President - Rep CD4,110,"Cruz, Ted",1972,YUMA
+53,20,2,40,President - Rep CD4,120,"Huckabee, Mike",13,YUMA
+54,20,2,40,President - Rep CD4,130,"Christie, Chris",7,YUMA
+55,20,2,40,President - Rep CD4,140,"Carson, Ben",155,YUMA
+56,20,2,50,President - Dem CD4,999999,Number of Precincts for Race,1,YUMA
+57,20,2,50,President - Dem CD4,999998,Number of Precincts Reporting,1,YUMA
+58,20,2,50,President - Dem CD4,999997,Registered Voters,5887,YUMA
+59,20,2,50,President - Dem CD4,999996,Times Counted,2781,YUMA
+60,20,2,50,President - Dem CD4,10,"De La Fuente, Roque",34,YUMA
+61,20,2,50,President - Dem CD4,20,"Steinberg, Michael",40,YUMA
+62,20,2,50,President - Dem CD4,30,"Sanders, Bernie",971,YUMA
+63,20,2,50,President - Dem CD4,40,"O'Malley, Martin J.",56,YUMA
+64,20,2,50,President - Dem CD4,50,"Clinton, Hillary",1620,YUMA
+65,20,2,50,President - Dem CD4,60,"Hewes, Henry",21,YUMA
+66,20,2,60,President - Grn CD4,999999,Number of Precincts for Race,1,YUMA
+67,20,2,60,President - Grn CD4,999998,Number of Precincts Reporting,1,YUMA
+68,20,2,60,President - Grn CD4,999997,Registered Voters,7,YUMA
+69,20,2,60,President - Grn CD4,999996,Times Counted,0,YUMA
+70,20,2,60,President - Grn CD4,10,"Mesplay, Kent",0,YUMA
+71,20,2,60,President - Grn CD4,20,"Stein, Jill",0,YUMA
+72,999999,TOTAL,999999,Race Statistics,999999,Number of Precincts,2,YUMA
+73,999999,TOTAL,999999,Race Statistics,999998,Number of Precincts Reporting,2,YUMA
+74,999999,TOTAL,10,President - Rep CD3,999999,Number of Precincts for Race,1,YUMA
+75,999999,TOTAL,10,President - Rep CD3,999998,Number of Precincts Reporting,1,YUMA
+76,999999,TOTAL,10,President - Rep CD3,999997,Registered Voters,9434,YUMA
+77,999999,TOTAL,10,President - Rep CD3,999996,Times Counted,4618,YUMA
+78,999999,TOTAL,10,President - Rep CD3,10,"Santorum, Rick",6,YUMA
+79,999999,TOTAL,10,President - Rep CD3,20,"Cook, Tim",4,YUMA
+80,999999,TOTAL,10,President - Rep CD3,30,"Paul, Rand",14,YUMA
+81,999999,TOTAL,10,President - Rep CD3,40,"Rubio, Marco",505,YUMA
+82,999999,TOTAL,10,President - Rep CD3,50,"Graham, Lindsey",5,YUMA
+83,999999,TOTAL,10,President - Rep CD3,60,"Kasich, John R.",334,YUMA
+84,999999,TOTAL,10,President - Rep CD3,70,"Bush, Jeb",54,YUMA
+85,999999,TOTAL,10,President - Rep CD3,80,"Trump, Donald J.",1966,YUMA
+86,999999,TOTAL,10,President - Rep CD3,90,"Fiorina, Carly",7,YUMA
+87,999999,TOTAL,10,President - Rep CD3,100,"Pataki, George E.",1,YUMA
+88,999999,TOTAL,10,President - Rep CD3,110,"Cruz, Ted",1555,YUMA
+89,999999,TOTAL,10,President - Rep CD3,120,"Huckabee, Mike",14,YUMA
+90,999999,TOTAL,10,President - Rep CD3,130,"Christie, Chris",8,YUMA
+91,999999,TOTAL,10,President - Rep CD3,140,"Carson, Ben",130,YUMA
+92,999999,TOTAL,20,President - Dem CD3,999999,Number of Precincts for Race,1,YUMA
+93,999999,TOTAL,20,President - Dem CD3,999998,Number of Precincts Reporting,1,YUMA
+94,999999,TOTAL,20,President - Dem CD3,999997,Registered Voters,17736,YUMA
+95,999999,TOTAL,20,President - Dem CD3,999996,Times Counted,5948,YUMA
+96,999999,TOTAL,20,President - Dem CD3,10,"De La Fuente, Roque",92,YUMA
+97,999999,TOTAL,20,President - Dem CD3,20,"Steinberg, Michael",29,YUMA
+98,999999,TOTAL,20,President - Dem CD3,30,"Sanders, Bernie",1908,YUMA
+99,999999,TOTAL,20,President - Dem CD3,40,"O'Malley, Martin J.",58,YUMA
+100,999999,TOTAL,20,President - Dem CD3,50,"Clinton, Hillary",3773,YUMA
+101,999999,TOTAL,20,President - Dem CD3,60,"Hewes, Henry",48,YUMA
+102,999999,TOTAL,30,President - Grn CD3,999999,Number of Precincts for Race,1,YUMA
+103,999999,TOTAL,30,President - Grn CD3,999998,Number of Precincts Reporting,1,YUMA
+104,999999,TOTAL,30,President - Grn CD3,999997,Registered Voters,19,YUMA
+105,999999,TOTAL,30,President - Grn CD3,999996,Times Counted,1,YUMA
+106,999999,TOTAL,30,President - Grn CD3,10,"Mesplay, Kent",1,YUMA
+107,999999,TOTAL,30,President - Grn CD3,20,"Stein, Jill",0,YUMA
+108,999999,TOTAL,40,President - Rep CD4,999999,Number of Precincts for Race,1,YUMA
+109,999999,TOTAL,40,President - Rep CD4,999998,Number of Precincts Reporting,1,YUMA
+110,999999,TOTAL,40,President - Rep CD4,999997,Registered Voters,11204,YUMA
+111,999999,TOTAL,40,President - Rep CD4,999996,Times Counted,6757,YUMA
+112,999999,TOTAL,40,President - Rep CD4,10,"Santorum, Rick",2,YUMA
+113,999999,TOTAL,40,President - Rep CD4,20,"Cook, Tim",1,YUMA
+114,999999,TOTAL,40,President - Rep CD4,30,"Paul, Rand",18,YUMA
+115,999999,TOTAL,40,President - Rep CD4,40,"Rubio, Marco",540,YUMA
+116,999999,TOTAL,40,President - Rep CD4,50,"Graham, Lindsey",2,YUMA
+117,999999,TOTAL,40,President - Rep CD4,60,"Kasich, John R.",458,YUMA
+118,999999,TOTAL,40,President - Rep CD4,70,"Bush, Jeb",32,YUMA
+119,999999,TOTAL,40,President - Rep CD4,80,"Trump, Donald J.",3531,YUMA
+120,999999,TOTAL,40,President - Rep CD4,90,"Fiorina, Carly",9,YUMA
+121,999999,TOTAL,40,President - Rep CD4,100,"Pataki, George E.",2,YUMA
+122,999999,TOTAL,40,President - Rep CD4,110,"Cruz, Ted",1972,YUMA
+123,999999,TOTAL,40,President - Rep CD4,120,"Huckabee, Mike",13,YUMA
+124,999999,TOTAL,40,President - Rep CD4,130,"Christie, Chris",7,YUMA
+125,999999,TOTAL,40,President - Rep CD4,140,"Carson, Ben",155,YUMA
+126,999999,TOTAL,50,President - Dem CD4,999999,Number of Precincts for Race,1,YUMA
+127,999999,TOTAL,50,President - Dem CD4,999998,Number of Precincts Reporting,1,YUMA
+128,999999,TOTAL,50,President - Dem CD4,999997,Registered Voters,5887,YUMA
+129,999999,TOTAL,50,President - Dem CD4,999996,Times Counted,2781,YUMA
+130,999999,TOTAL,50,President - Dem CD4,10,"De La Fuente, Roque",34,YUMA
+131,999999,TOTAL,50,President - Dem CD4,20,"Steinberg, Michael",40,YUMA
+132,999999,TOTAL,50,President - Dem CD4,30,"Sanders, Bernie",971,YUMA
+133,999999,TOTAL,50,President - Dem CD4,40,"O'Malley, Martin J.",56,YUMA
+134,999999,TOTAL,50,President - Dem CD4,50,"Clinton, Hillary",1620,YUMA
+135,999999,TOTAL,50,President - Dem CD4,60,"Hewes, Henry",21,YUMA
+136,999999,TOTAL,60,President - Grn CD4,999999,Number of Precincts for Race,1,YUMA
+137,999999,TOTAL,60,President - Grn CD4,999998,Number of Precincts Reporting,1,YUMA
+138,999999,TOTAL,60,President - Grn CD4,999997,Registered Voters,7,YUMA
+139,999999,TOTAL,60,President - Grn CD4,999996,Times Counted,0,YUMA
+140,999999,TOTAL,60,President - Grn CD4,10,"Mesplay, Kent",0,YUMA
+141,999999,TOTAL,60,President - Grn CD4,20,"Stein, Jill",0,YUMA
