@@ -26,8 +26,6 @@ df1 <- OH %>%
   )
 
 # Remove invalid or extreme values if needed
-df1 <- df1 %>%
-  filter(primary_margin <= 1, general_margin <= 1, general_margin >= 0)
 
 # Plot
 oh_plot <- ggplot(df1, aes(x = primary_margin, y = general_margin)) +
@@ -56,8 +54,6 @@ df2 <- WA %>%
   )
 
 # Remove invalid or extreme values if needed
-df2 <- df2 %>%
-  filter(primary_margin <= 1, general_margin <= 1, general_margin >= 0)
 
 # Plot
 # Create and save plot for WA
@@ -76,6 +72,82 @@ wa_plot <- ggplot(df2, aes(x = primary_margin, y = general_margin)) +
 # Save plot
 ggsave("WA_turnout_plot.jpg", plot = wa_plot, width = 10, height = 7, dpi = 300)
 
-WA_plot
+wa_plot
+```
+
+```{r}
+df_long_party <- OH %>%
+  mutate(
+    dem_primary_share   = dem_primary_total / (dem_primary_total + rep_primary_total),
+    dem_general_share   = dem_general_total / (dem_general_total + rep_general_total),
+    rep_primary_share   = rep_primary_total / (dem_primary_total + rep_primary_total),
+    rep_general_share   = rep_general_total / (dem_general_total + rep_general_total)
+  ) %>%
+  select(dem_primary_share, dem_general_share, rep_primary_share, rep_general_share) %>%
+  pivot_longer(
+    everything(),
+    names_to = "type",
+    values_to = "share"
+  ) %>%
+  mutate(
+    party  = if_else(str_detect(type, "dem"), "Democrat", "Republican"),
+    phase  = if_else(str_detect(type, "primary"), "Primary", "General")
+  ) %>%
+  drop_na(share)
+
+```
+
+```{r}
+ggplot(df_long_party, aes(x = share, fill = phase)) +
+  geom_histogram(position = "identity", alpha = 0.5, bins = 30) +
+  facet_wrap(~ party) +
+  scale_x_continuous(labels = scales::percent_format(1)) +
+  labs(
+    x = "Vote Share (Two-Party)",
+    y = "Precinct Count",
+    fill = "Election Phase",
+    title = "Histogram of Vote Share for Each Party in OH",
+    subtitle = "Comparing Primary vs. General"
+  ) +
+  theme_minimal()
+
+```
+```{r}
+df_party <- WA %>%
+  mutate(
+    dem_primary_share   = dem_primary_total / (dem_primary_total + rep_primary_total),
+    dem_general_share   = dem_general_total / (dem_general_total + rep_general_total),
+    rep_primary_share   = rep_primary_total / (dem_primary_total + rep_primary_total),
+    rep_general_share   = rep_general_total / (dem_general_total + rep_general_total)
+  ) %>%
+  select(dem_primary_share, dem_general_share, rep_primary_share, rep_general_share) %>%
+  pivot_longer(
+    everything(),
+    names_to = "type",
+    values_to = "share"
+  ) %>%
+  mutate(
+    party  = if_else(str_detect(type, "dem"), "Democrat", "Republican"),
+    phase  = if_else(str_detect(type, "primary"), "Primary", "General")
+  ) %>%
+  drop_na(share)
+
+```
+
+```{r}
+ggplot(df_party, aes(x = share, fill = phase)) +
+  geom_histogram(position = "identity", alpha = 0.5, bins = 30) +
+  facet_wrap(~ party) +
+  scale_x_continuous(labels = scales::percent_format(1)) +
+  labs(
+    x = "Vote Share (Two-Party)",
+    y = "Precinct Count",
+    fill = "Election Phase",
+    title = "Histogram of Vote Share for Each Party in WA",
+    subtitle = "Comparing Primary vs. General"
+  ) +
+  theme_minimal()
+
 ```
 ```
+
